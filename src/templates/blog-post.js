@@ -9,10 +9,12 @@ class BlogPostTemplate extends React.Component {
 
     return (
       <div>
+        <div className="post-header">
         <h2>{post.frontmatter.title}</h2>
         <p className="date">
           {post.frontmatter.date}
         </p>
+        </div>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
       </div>
     )

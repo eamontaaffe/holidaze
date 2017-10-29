@@ -4,11 +4,10 @@
 }
 
 h1 {
-    font-size: 24px;
+    font-size: 18px;
     font-weight: normal;
-    margin-bottom: 100px;
+    margin-bottom: 60px;
     margin-top: 50px;
-    letter-spacing: 0.03em;
 }
 
 h1 a {
@@ -18,14 +17,17 @@ h1 a {
 }
 
 h2 {
-    font-weight: normal;    
-    letter-spacing: 0.03em;    
+    font-size: 18px;    
+    font-weight: normal;  
+    margin-bottom: 10px;
+    margin-top: 20px;  
+    
 }
 
 h3 {
-    font-size: 24px;
+    font-size: 18px;
     font-weight: normal;
-    letter-spacing: 0.03em;
+    margin-bottom: 10px;
 }
 
 .index-page {
@@ -42,11 +44,26 @@ h3 {
 }
 
 .date {
-    font-family: courier;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 13px;    
+    
+}
+
+.footer{
+    margin-top: 80px;
+    margin-bottom: 30px;
 }
 
 .footer a {
     color: black;
     text-decoration: none;
     border-bottom: solid 1px black;
+}
+
+.post-header {
+    margin-bottom: 60px;
+}
+
+img.gatsby-resp-image-image, span.gatsby-resp-image-background-image{
+    margin-top: 60px;
 }
