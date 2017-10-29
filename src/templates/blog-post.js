@@ -9,8 +9,8 @@ class BlogPostTemplate extends React.Component {
 
     return (
       <div>
-        <h1>{post.frontmatter.title}</h1>
-        <p>
+        <h2>{post.frontmatter.title}</h2>
+        <p className="date">
           {post.frontmatter.date}
         </p>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
@@ -33,7 +33,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        date(formatString: "MMMM DD, YYYY")
+        date(formatString: "DD.MM.YY")
       }
     }
   }
