@@ -6,7 +6,7 @@ const IndexPage = ({ data }) => (
   <div className="index-page">
     {
       data.allMarkdownRemark.edges.map(post => (
-        <Post {...post} />
+        <Post key={post.node.id} {...post} />
       ))
     }
   </div>
@@ -24,6 +24,7 @@ export const pageQuery = graphql`
     allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
       edges {
         node {
+          id
           frontmatter {
             path
             date(formatString: "DD.MM.YY")
@@ -31,10 +32,7 @@ export const pageQuery = graphql`
             image {
               childImageSharp {
                 resolutions(width: 360, height: 360) {
-                  width
-                  height
-                  src
-                  srcSet
+                  ...GatsbyImageSharpResolutions
                 }
               }
             }
