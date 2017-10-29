@@ -7,7 +7,7 @@ export default function Post(props) {
     return (
     <div className="post">
       <Link to={path}>
-        <Image blurUp resolutions={image.childImageSharp.resolutions} />
+        <Image resolutions={image.childImageSharp.resolutions} />
       </Link>
       <h3>{title}</h3>
       <span className="date">{date}</span>
