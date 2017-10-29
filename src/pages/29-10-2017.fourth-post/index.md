@@ -1,9 +1,9 @@
 ---
-path: "/hello-world-2"
+path: "/hello-world-4"
 date: "2017-07-12T17:12:33.962Z"
-title: "My Second Gatsby Post"
+title: "My Fourth Gatsby Post"
 image: './hello-world.jpg'
 ---
 
-# Hello world 2
+# Hello world 4
 

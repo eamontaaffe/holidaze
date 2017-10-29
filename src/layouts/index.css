@@ -1,0 +1,41 @@
+.template {
+    text-align: center;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    font-size: 26px;
+    font-weight: lighter;
+    margin-bottom: 100px;
+    margin-top: 50px;
+    letter-spacing: 0.03em;
+}
+
+h1 a {
+    color: black;
+    text-decoration: none;
+    border-bottom: solid 1px black;
+}
+
+h3 {
+    font-size: 26px;
+    font-weight: lighter;
+    letter-spacing: 0.03em;
+}
+
+.index-page {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1280px;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.post {
+    margin: 30px;
+    margin-bottom: 80px;
+}
+
+.post .date {
+    font-family: courier;
+}

@@ -1,15 +1,12 @@
 import React from 'react';
-import Link from 'gatsby-link';
+
+import Post from '../components/Post';
 
 const IndexPage = ({ data }) => (
-  <div>
+  <div className="index-page">
     {
       data.allMarkdownRemark.edges.map(post => (
-        <div key={post.node.frontmatter.title}>
-          <Link to={post.node.frontmatter.path}>
-            {post.node.frontmatter.title}
-          </Link>
-        </div>
+        <Post {...post} />
       ))
     }
   </div>
@@ -29,8 +26,18 @@ export const pageQuery = graphql`
         node {
           frontmatter {
             path
-            date(formatString: "DD MMMM, YYYY")
+            date(formatString: "DD.MM.YY")
             title
+            image {
+              childImageSharp {
+                resolutions(width: 360, height: 360) {
+                  width
+                  height
+                  src
+                  srcSet
+                }
+              }
+            }
           }
         }
       }

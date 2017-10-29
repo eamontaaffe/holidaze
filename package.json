@@ -5,14 +5,17 @@
   "author": "Eamon Taaffe <eamontaaffe@gmail.com>, Florence Li Ting Fong <florenceltf@gmail.com>",
   "dependencies": {
     "gatsby": "^1.9.73",
+    "gatsby-image": "^1.0.16",
     "gatsby-link": "^1.6.22",
+    "gatsby-plugin-sharp": "^1.6.13",
     "gatsby-source-filesystem": "^1.5.5",
-    "gatsby-transformer-remark": "^1.7.18"
+    "gatsby-transformer-remark": "^1.7.18",
+    "gatsby-transformer-sharp": "^1.6.13"
   },
   "keywords": [
     "gatsby"
   ],
-  "license": "private",
+  "license": "UNLICENSED",
   "main": "n/a",
   "scripts": {
     "build": "gatsby build",

@@ -8,6 +8,9 @@ const TemplateWrapper = ({ children, data }) => (
   <div className="template">
     <h1><Link to="/">{data.site.siteMetadata.title}</Link></h1>
     {children()}
+    <h3 className="footer">
+      &copy; Florence Li Ting Fong
+    </h3>
   </div>
 )
 
