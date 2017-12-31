@@ -1,8 +1,8 @@
 ---
 path: "/kowloon"
-date: "2017-12-18"
+date: "2017-12-15"
 title: "Kowloon, Hong Kong"
-image: "./DSCF6681.jpg"
+image: "./DSCF6915.jpg"
 ---
 
 ![Harbour Front](./DSCF6915.jpg)
