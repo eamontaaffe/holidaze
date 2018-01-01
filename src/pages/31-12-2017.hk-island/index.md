@@ -1,5 +1,5 @@
 ---
-path: "/hong-kong-island"
+path: "/hk-island"
 date: "2017-12-23"
 title: "HK Island, Hong Kong"
 image: "./DSCF7261.jpg"
@@ -41,3 +41,4 @@ image: "./DSCF7261.jpg"
 ## Victoria Peak Gardens
 <span class="date">24.12.2017</span>
 
+# [Our picks for Hong Kong and Macau](/hk-notes)

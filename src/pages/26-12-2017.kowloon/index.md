@@ -64,3 +64,5 @@ image: "./DSCF6915.jpg"
 ![Pulse Light Show](./DSCF6869.jpg)
 ## Pulse Light Show at the Harbour
 <span class="date">18.12.2017</span>
+
+# [Our picks for Hong Kong and Macau](/hk-notes)
