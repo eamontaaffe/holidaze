@@ -74,3 +74,8 @@ Top views overlooking the city. If you’re there 'til 8pm you can watch the Pul
 
 This one's been on the list for a while. Like all trending places, this one doesn't take bookings for groups under six people. But the food (Chinese fusion) is meant to be outstanding. 
 <span class="date">Location: HK Island</span>
+
+## [Disneyland](https://www.google.com.au/maps/place/Hong+Kong+Disneyland/@22.3129666,114.0412819,15z/data=!4m2!3m1!1s0x0:0x35b3af6ce4475405?sa=X&ved=0ahUKEwiqvq757bvYAhVMv48KHb_kAAcQ_BIIowEwEg)
+
+It's not the biggest or the best Disneyland in the world, but it's still a lot of fun. All rides are pretty entertaining even if they aren't fast or scary. Hyperspace Mountain p.k.a Space Mountain is a Star Wars themed rollercoaster is pretty tame but it's still one of the best and has fast pass tickets to skip the queue. 
+<span class="date">Location: Lantau Island</span>
