@@ -2,7 +2,7 @@
 path: "/pulau-ubin"
 date: "2018-01-09"
 title: "Pulau Ubin, Singapore"
-image: "./DSCF8370.jpg"
+image: "./DSCF8490.jpg"
 ---
 
 ![Pulau Ubin](./DSCF8490.jpg)
