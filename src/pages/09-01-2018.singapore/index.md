@@ -17,10 +17,6 @@ image: "./DSCF8189.jpg"
 ## Gardens by the Bay
 <span class="date">01.01.2018</span>
 
-![Gardens by the Bay](./DSCF7510.jpg)
-## Gardens by the Bay
-<span class="date">01.01.2018</span>
-
 ![River Safari, Singapore Zoo](./DSCF7696.jpg)
 ## River Safari, Singapore Zoo
 <span class="date">03.01.2018</span>
@@ -36,14 +32,6 @@ image: "./DSCF8189.jpg"
 ![River Safari, Singapore Zoo](./DSCF7826.jpg)
 ## River Safari, Singapore Zoo
 <span class="date">03.01.2018</span>
-
-![Streets of Singapore](./DSCF8186.jpg)
-## Streets of Singapore
-<span class="date">04.01.2018</span>
-
-![Streets of Singapore](./DSCF8178.jpg)
-## Streets of Singapore
-<span class="date">04.01.2018</span>
 
 ![Streets of Tiong Bahru](./DSCF8189.jpg)
 ## Streets of Tiong Bahru
