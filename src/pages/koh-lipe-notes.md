@@ -6,7 +6,7 @@ hidden: true
 ---
 ## Getting there
 
-From Langkawi, we took a ferry from Telaga Terminal. Probably took an hour and a half and was pretty smooth. We departed from the ferry to get on a wooden Thai boat to take us to Pattaya beach for immigration. As we boarded they also took our passports but that's a different story...
+From Langkawi, we took a ferry from Telaga Terminal (as we boarded they also took our passports but that's a different story...) The ferry took around an hour and a half and was pretty smooth. To get to the coastline we had to jump onto a little wooden Thai boat which took us to Pattaya beach for immigration. 
 <br></br>
 
 ## [Pattaya Beach](https://www.google.co.th/maps/place/Pattaya+Beach/@12.9360693,100.8800315,17z/data=!3m1!4b1!4m5!3m4!1s0x31029605af36b5dd:0x4aff93f8a30460a8!8m2!3d12.9360693!4d100.8822202)

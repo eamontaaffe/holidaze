@@ -21,7 +21,7 @@ image: "./DSCF8490.jpg"
 
 ![Pulau Ubin](./DSCF8417.jpg)
 
-
+# [Pulau Ubin Notes](/pulau-ubin-notes)
 
 
 
