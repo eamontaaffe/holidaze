@@ -86,3 +86,5 @@ image: "./DSCF8545.jpg"
 
 ![23 Love Lane](./DSCF8831.jpg)
 ## 23 Love Lane
+
+# [Our picks for Georgetown, Penang](/penang-notes)
