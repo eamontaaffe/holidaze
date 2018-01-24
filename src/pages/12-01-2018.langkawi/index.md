@@ -23,3 +23,13 @@ image: "./DSCF8960.jpg"
 ![Chooks in trees](./DSCF8962.jpg)
 ## Streets near Cenang Beach
 
+## Our Notes
+
+## Pattaya Beach
+
+## Sunrise Beach
+
+## Sunset Beach
+
+
+
