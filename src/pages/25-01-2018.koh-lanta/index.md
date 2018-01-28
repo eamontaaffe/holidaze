@@ -2,7 +2,7 @@
 path: "/koh-lanta"
 date: "2018-01-23"
 title: "Koh Lanta, Thailand"
-image: "./DSCF9286.jpg"
+image: "./DSCF9329.jpg"
 ---
 
 ![Koh Lanta](./DSCF9238.jpg)
@@ -38,5 +38,5 @@ image: "./DSCF9286.jpg"
 ![Koh Lanta](./DSCF9198.jpg)
 ## Street Market
 
-
+# [Koh Lanta Notes](/koh-lanta-notes)
 
