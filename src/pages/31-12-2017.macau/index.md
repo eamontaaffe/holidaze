@@ -41,3 +41,4 @@ image: "./DSCF7110.jpg"
 ## Coloane Village
 <span class="date">21.12.2017</span>
 
+# [Our picks for Hong Kong and Macau](/hk-notes)
