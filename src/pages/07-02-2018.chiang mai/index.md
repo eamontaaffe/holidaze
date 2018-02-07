@@ -2,7 +2,7 @@
 path: "/chiang-mai"
 date: "2018-01-29"
 title: "Chiang Mai"
-image: "./DSCF9893.jpg"
+image: "./DSCF9842.jpg"
 ---
 
 ![Chiang Mai](./DSCF9893.jpg)
