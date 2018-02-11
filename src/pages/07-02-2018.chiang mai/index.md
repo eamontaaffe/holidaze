@@ -1,7 +1,7 @@
 ---
 path: "/chiang-mai"
 date: "2018-01-29"
-title: "Chiang Mai"
+title: "Chiang Mai, Thailand"
 image: "./DSCF9842.jpg"
 ---
 
