@@ -17,11 +17,10 @@ h1 a {
 }
 
 h2 {
-    font-size: 18px;    
-    font-weight: normal;  
+    font-size: 18px;
+    font-weight: normal;
     margin-bottom: 10px;
-    margin-top: 20px;  
-    
+    margin-top: 20px;
 }
 
 h2 a {
@@ -60,8 +59,7 @@ p {    font-size: 18px;
 
 .date {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 13px;    
-    
+    font-size: 13px;
 }
 
 .footer{
