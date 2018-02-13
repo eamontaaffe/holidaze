@@ -6,9 +6,9 @@ hidden: true
 ---
 ## Getting there
 
-From Changi Ferry Terminal we boarded a small dinky boat which took about 20 minutes. It was also really cheap, costing SG $3 per person, one way.
+From Changi Ferry Terminal we boarded a small dinky boat which took about 20 minutes. It was really cheap, costing SG $3 per person, one way.
 <br></br>
 
 ## Once you're there
 
-The best way to see the island is by bike. As soon as you arrive and walk into "town" there's no shortage of people trying to get you to hire one. You'll find wild boars, monkeys, coastal bridge walks alongside mangroves.
+Hire a bike to see the island. As soon as you walk into "town" there's no shortage of people trying to get you to hire one. There's wild boars, monkeys and coastal bridge walks.

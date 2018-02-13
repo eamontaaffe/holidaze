@@ -21,7 +21,7 @@ There's a couple around Penang. We went to the one in Georgetown (not the vego o
 
 ## [Kek Lok Si Temple](https://www.google.co.th/maps/place/Kek+Lok+Si+Temple,+11500+Ayer+Itam,+Pulau+Pinang,+Malaysia/@5.3995529,100.2717123,17z/data=!3m1!4b1!4m5!3m4!1s0x304ac21a8adace3d:0xf577f6f1f5f767a!8m2!3d5.3994269!4d100.2737713)
 
-Only a 20 minute uber drive away from Georgetown, it's definitely worth the visit. A big site with lots of temples, buddhas and monks. Lots to see. There's also the famous assam laksa down the street. Anthony Bourdain approved, which means it must be good.
+Only a 20 minute uber drive away from Georgetown, it's definitely worth the visit. A big site with lots of temples, buddhas and monks. Lots to see. There's also the famous assam laksa down the street. Anthony Bourdain approved.
 <br></br>
 
 ## [Cheong Fat Tze Mansion aka Blue Mansion](https://www.google.co.th/maps/place/Cheong+Fatt+Tze+-+The+Blue+Mansion+(Guided+Tours)/@5.421288,100.3330443,17z/data=!3m1!4b1!4m5!3m4!1s0x304ac39a68f413c5:0x98884bb078f41ebd!8m2!3d5.421288!4d100.335233)

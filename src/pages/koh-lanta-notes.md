@@ -11,7 +11,7 @@ From Koh Lipe we took a speed boat to get to the pier at Koh Lanta. Took about 3
 
 ## [Klong Khong Beach](https://www.google.co.th/maps/@7.5712447,99.02995,16z)
 
-Similar to Koh Lipe, Klong Khong beach feels very laid back. The restaurants, bars and massage parlours are a bit more spread out so it doesn't feel like it's packed with tourists. The beach is quite rocky, sprinkled with camouflaged sea cucumbers hidden under the water. During the night, there's plenty of bars and 'shroom bars to choose from.
+Similar to Koh Lipe, Klong Khong beach is very laid back. The restaurants, bars and massage parlours are a bit more spread out so it doesn't feel like it's packed with tourists. The beach is quite rocky, sprinkled with camouflaged sea cucumbers hidden under the water. During the night, there's plenty of bars and 'shroom bars to choose from.
 <br></br>
 
 ## [Koh Rok](https://www.google.co.th/maps/place/Koh+Rok+Yai+Beach/@7.2170081,99.0480757,14z/data=!4m5!3m4!1s0x304e70fd745241cb:0x37ae8d50f546a661!8m2!3d7.2170028!4d99.0655905)

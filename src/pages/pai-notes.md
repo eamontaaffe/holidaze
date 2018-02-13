@@ -4,12 +4,12 @@ date: "2018-02-06"
 title: "Pai Notes"
 hidden: true
 ---
-Similar to Koh Lipe, Pai thrives on tourism. Its main street (Walking Street) is pretty much the town's city centre, aimed towards tourists with its cafes, bars, street food and markets. However unlike Koh Lipe, Pai is vast, surrounded by nature and mountainous landscapes. There's a lot sightseeing attractions on the outskirts of the town such as hotsprings, waterfalls and viewpoints overlooking the mountains. Scooters are the easiest and cheapest way to get around with most attractions only 30 to 40 mins away. Otherwise there are taxis via booked tours.
+Similar to Koh Lipe, Pai thrives on tourism. Its main street (Walking Street) is pretty much the town's city centre with its cafes, bars and markets (this street also turns into a night market after 6pm). However unlike Koh Lipe, Pai is surrounded by mountainous landscapes. There's a lot sightseeing attractions on the outskirts of the town such as hotsprings, waterfalls and viewpoints overlooking the mountains. Scooters are the easiest and cheapest way to get around with most attractions only 30 to 40 mins away. Otherwise there are taxis via booked tours.
 <br></br>
 
 ## Getting there
 
-Pai is 3 hours from Chiang Mai via minibus, which is the most common form of transport getting there. It was around 200 Bbht pp. As we learnt, it's probably best to travel in the morning. We took the 4pm bus from Pai and roasted in the car. Our bus driver was also a bit of a maniac, fanging down the winding rooms. Kind of terrifying.
+Pai is 3 hours from Chiang Mai via minibus (which is the most common form of transport getting there). It was around 200 baht pp. As we learnt, it's probably best to travel in the morning. We took the 4pm bus from Pai and roasted in the bus. Our driver was also a bit of a maniac, fanging down the winding rooms.
 <br></br>
 
 ## [Conserve Natural Forests](http://conservenaturalforests.org/)

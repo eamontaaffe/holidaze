@@ -26,6 +26,9 @@ image: "./DSCF0978.jpg"
 ![Galle Face](./DSCF1035.jpg)
 ## Galle Face Hotel
 
+![Galle Face](./DSCF0992.jpg)
+## Galle Face Hotel
+
 ![Galle Face](./DSCF1053.jpg)
 ## Galle Face Hotel
 

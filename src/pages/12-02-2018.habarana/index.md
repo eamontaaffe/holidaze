@@ -56,4 +56,5 @@ image: "./DSCF1097.jpg"
 ![Polonnaruwa](./DSCF1453.jpg)
 ## Polonnaruwa
 
+# [Habarana Notes](/habarana-notes)
 

@@ -6,17 +6,17 @@ hidden: true
 ---
 ## Getting there
 
-From Langkawi, we took a ferry from Telaga Terminal (as we boarded they also took our passports but that's a different story...) The ferry took around an hour and a half and was pretty smooth. To get to the coastline we had to jump onto a little wooden Thai boat which took us to Pattaya beach for immigration. 
+From Langkawi, we took a ferry from Telaga Terminal (they also took our passports as we boarded but that's a different story...) The ferry took around an hour and a half and was pretty smooth. To get to the coastline we had to jump onto a little wooden Thai boat which took us to Pattaya beach for "immigration". 
 <br></br>
 
 ## [Pattaya Beach](https://www.google.co.th/maps/place/Pattaya+Beach/@12.9360693,100.8800315,17z/data=!3m1!4b1!4m5!3m4!1s0x31029605af36b5dd:0x4aff93f8a30460a8!8m2!3d12.9360693!4d100.8822202)
 
-Filled with tiki bars all along coast, this beach is best for its nightlife. It has a really laidback vibe so don't expect much of a party scene. It's also the closest to Walking Street, which is the main tourist-y street on the island where most restaurants and shops can be found.
+Best for its nightlife, filled with tiki bars all along the coast. It's also the closest to Walking Street, which is the main tourist-y street on the island with all the restaurants and shops.
 <br></br>
 
 ## [Sunrise Beach](https://www.google.co.th/maps/place/Sunrise+Beach+Restaurant/@6.4897488,99.3075083,17z/data=!3m1!4b1!4m5!3m4!1s0x304c04cda811b283:0xec4a6ea18cddeb3d!8m2!3d6.4897488!4d99.309697)
 
-The island is tiny so it's not hard to get to any of the beaches. This one however is the best beach on the island. With coral so close to the beach, it's not hard to find a good place to snorkel. It's especially good for a snorkel in the arvo at low tide. There's a few bars and restaurants along the beach but it's mostly resorts with coastal views.
+Best beach on the island and only a few metres from town. Coral is right next to the coastline with lots of good snorkles, especially in the arvo at low tide. There's a few bars and restaurants but it's mostly resorts.
 <br></br>
 
 ## [Sunset Beach](https://www.google.co.th/maps/place/Sunset+Beach/@6.4923332,99.2982829,17z/data=!3m1!4b1!4m5!3m4!1s0x304c04b56eb78629:0xe2b542baead9f14a!8m2!3d6.4923332!4d99.3004716)
