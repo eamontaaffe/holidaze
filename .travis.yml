@@ -1,9 +1,16 @@
 language: node_js
 node_js:
   - "7"
-cache: yarn
+branches:
+  only:
+  - master
+cache:
+  yarn: true
+  directories:
+    - node_modules
 deploy:
   provider: script
-  script: yarn deploy
+  script: 'yarn deploy'
+  skip_cleanup: true
   on:
     branch: master
