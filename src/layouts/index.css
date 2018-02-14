@@ -80,3 +80,24 @@ p {    font-size: 18px;
 img.gatsby-resp-image-image, span.gatsby-resp-image-background-image{
     margin-top: 60px;
 }
+
+progress {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+
+  width: 100%;
+  height: 4px;
+
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+
+  border: none;
+
+  background-color: transparent;
+  color: black;
+}
+
+progress::-moz-progress-bar { background: black; }
+progress::-webkit-progress-value { background: black; }
