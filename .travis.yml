@@ -12,10 +12,7 @@ cache:
     - public
 deploy:
   provider: script
-  script:
-    - 'yarn deploy:ci'
-    - 'pwd'
-    - 'ls'
+  script: 'pwd && ls && yarn deploy:ci'
   skip_cleanup: true
   on:
     branch: master
