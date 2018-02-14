@@ -12,7 +12,7 @@ cache:
     - public
 deploy:
   provider: script
-  script: 'pwd && ls && yarn deploy:ci'
+  script: 'ls $TRAVIS_BUILD_DIR && yarn deploy:ci'
   skip_cleanup: true
   on:
     branch: master
