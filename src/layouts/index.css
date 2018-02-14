@@ -80,8 +80,3 @@ p {    font-size: 18px;
 img.gatsby-resp-image-image, span.gatsby-resp-image-background-image{
     margin-top: 60px;
 }
-
-/* TODO: Remove next class definition */
-.unrelated {
-  boarder: blue;
-}
