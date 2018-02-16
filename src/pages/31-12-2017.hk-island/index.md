@@ -41,4 +41,20 @@ image: "./DSCF7261.jpg"
 ## Victoria Peak Gardens
 <span class="date">24.12.2017</span>
 
+![Disneyland](./DSCF7292.jpg)
+## Christmas Day at Disneyland
+<span class="date">25.12.2017</span>
+
+![Mickey Mouse Waffles, Disneyland](./DSCF7326.jpg)
+## Mickey Mouse Waffles, Disneyland
+<span class="date">25.12.2017</span>
+
+![Disneyland](./DSCF7289.jpg)
+## Christmas Day at Disneyland
+<span class="date">25.12.2017</span>
+
+![Disneyland](./DSCF7301.jpg)
+## Dumbo, Disneyland
+<span class="date">25.12.2017</span>
+
 # [Our picks for Hong Kong and Macau](/hk-notes)
