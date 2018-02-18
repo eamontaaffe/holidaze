@@ -14,6 +14,9 @@ image: "./DSCF1831.jpg"
 ![From Kandy to Ella](./DSCF1522.jpg)
 ## From Kandy to Ella
 
+![Ella](./DSCF1677.jpg)
+## Our adopted dog, Rosie
+
 ![Little Adam's Peak](./DSCF1816.jpg)
 ## Little Adam's Peak
 
@@ -67,3 +70,5 @@ image: "./DSCF1831.jpg"
 
 ![Ella Rock](./DSCF1798.jpg)
 ## Ella Rock
+
+
