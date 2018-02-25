@@ -2,7 +2,7 @@
 path: "/mirissa"
 date: "2018-02-21"
 title: "Mirissa & Galle, Sri Lanka"
-image: "./DSCF2301.jpg"
+image: "./DSCF2331.jpg"
 ---
 
 ![Mirissa](./DSCF2331.jpg)
