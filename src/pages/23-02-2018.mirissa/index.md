@@ -38,8 +38,8 @@ image: "./DSCF2331.jpg"
 ![Galle Fort](./DSCF2286.jpg)
 ## Galle Fort
 
-![Galle Fort](./DSCF2301.jpg)
+![Galle Fort](./DSCF2310.jpg)
 ## Galle Fort
 
-![Galle Fort](./DSCF2310.jpg)
+![Galle Fort](./DSCF2301.jpg)
 ## Galle Fort
