@@ -1,5 +1,5 @@
 ---
-path: "/jaisalmer"
+path: "/jaisalmer-camel-safari"
 date: "2018-03-04"
 title: "Camel Safari, Jaisalmer, India"
 image: "./DSCF3151.jpg"
