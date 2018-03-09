@@ -64,3 +64,5 @@ image: "./DSCF3411.jpg"
 
 ![Jaipur](./DSCF3431.jpg)
 ## Streets of Jaipur
+
+# [India Notes](/india-notes)
