@@ -55,3 +55,5 @@ image: "./DSCF3338.jpg"
 
 ![Jaisalmer](./DSCF3281.jpg)
 ## Jaisalmer Fort
+
+# [India Notes](/india-notes)

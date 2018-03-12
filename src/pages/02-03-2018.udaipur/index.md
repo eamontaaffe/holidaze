@@ -65,5 +65,5 @@ image: "./DSCF2701.jpg"
 ![Udaipur](./DSCF2622.jpg)
 ## Holi Festival
 
-
+# [India Notes](/india-notes)
 

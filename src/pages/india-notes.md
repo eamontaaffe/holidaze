@@ -7,7 +7,7 @@ hidden: true
 
 1
 <br></br>
-Be prepared for offensive smells, non-stop honking (especially in Delhi) and random spitting (out of doors, on the side of the path, everywhere and anywhere etc.)
+Be prepared for offensive smells, non-stop honking (especially in Delhi) and random spitting (out of doors, on the side of the path, everywhere else etc.)
 <br></br>
 
 2

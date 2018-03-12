@@ -65,5 +65,6 @@ image: "./DSCF2755.jpg"
 ![Jodhpur](./DSCF2880.jpg)
 ## Streets of Jodhpur
 
+# [India Notes](/india-notes)
 
 

@@ -42,3 +42,5 @@ image: "./DSCF3151.jpg"
 ![Camel Safari, Jaisalmer](./DSCF3275.jpg)
 
 ![Camel Safari, Jaisalmer](./DSCF3276.jpg)
+
+# [India Notes](/india-notes)
