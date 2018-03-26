@@ -42,19 +42,19 @@ image: "./DSCF3710.jpg"
 ## Taj Mahal
 
 ![Agra](./DSCF3879.jpg)
-## Aka Baby Taj
+## Tomb of Itimad ud Daulah aka Baby Taj
 
 ![Agra](./DSCF3885.jpg)
-## Aka Baby Taj
+## Tomb of Itimad ud Daulah aka Baby Taj
 
 ![Agra](./DSCF3887.jpg)
-## Aka Baby Taj
+## Tomb of Itimad ud Daulah aka Baby Taj
 
 ![Agra](./DSCF3901.jpg)
-## Aka Baby Taj
+## Tomb of Itimad ud Daulah aka Baby Taj
 
 ![Agra](./DSCF3917.jpg)
-## Aka Baby Taj
+## Tomb of Itimad ud Daulah aka Baby Taj
 
 ![Agra](./DSCF3931.jpg)
-## Aka Baby Taj
+## Tomb of Itimad ud Daulah aka Baby Taj
