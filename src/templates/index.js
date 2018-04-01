@@ -38,7 +38,11 @@ function renderAllLinks(pageCount) {
   } else {
     return [
       ...renderAllLinks(pageCount - 1),
-      (<Link to={getIndexPath(pageCount)}>{`${pageCount}`}</Link>),
+      (
+        <Link key={pageCount} to={getIndexPath(pageCount)}>
+          {`${pageCount}`}
+        </Link>
+      ),
     ];
   }
 }
