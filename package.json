@@ -13,7 +13,8 @@
     "gatsby-remark-images": "^1.5.24",
     "gatsby-source-filesystem": "^1.5.5",
     "gatsby-transformer-remark": "^1.7.18",
-    "gatsby-transformer-sharp": "^1.6.13"
+    "gatsby-transformer-sharp": "^1.6.13",
+    "moment": "^2.22.0"
   },
   "keywords": [
     "gatsby"
