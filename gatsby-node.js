@@ -4,6 +4,8 @@ const createPaginatedPages = require("gatsby-paginate")
 const path = require("path")
 const select = require(`unist-util-select`)
 
+const PAGINATION_LENGTH = 12;
+
 exports.createPages = ({ graphql, boundActionCreators }) => {
   const { createPage } = boundActionCreators
 
@@ -13,34 +15,34 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
     resolve(
       graphql(
         `
-query GatsbyNodeQuery {
-  allMarkdownRemark(
-    sort: {fields: [frontmatter___date],
-    order: DESC}, filter: {frontmatter: {hidden: {ne: true}}}
-  ) {
-    edges {
-      node {
-        id
-        frontmatter {
-          path
-          date(formatString: "DD.MM.YY")
-          title
-          image {
-            childImageSharp {
-              resolutions(width: 360, height: 360) {
-                base64
-                width
-                height
-                src
-                srcSet
+          query GatsbyNodeQuery {
+            allMarkdownRemark(
+              sort: {fields: [frontmatter___date],
+              order: DESC}, filter: {frontmatter: {hidden: {ne: true}}}
+            ) {
+              edges {
+                node {
+                  id
+                  frontmatter {
+                    path
+                    date(formatString: "DD.MM.YY")
+                    title
+                    image {
+                      childImageSharp {
+                        resolutions(width: 360, height: 360) {
+                          base64
+                          width
+                          height
+                          src
+                          srcSet
+                        }
+                      }
+                    }
+                  }
+                }
               }
             }
           }
-        }
-      }
-    }
-  }
-}
 
     `
       ).then(result => {
@@ -57,7 +59,7 @@ query GatsbyNodeQuery {
           edges,
           createPage,
           pageTemplate: "src/templates/index.js",
-          pageLength: 9,
+          pageLength: PAGINATION_LENGTH,
         });
 
         // Create blog posts pages.
