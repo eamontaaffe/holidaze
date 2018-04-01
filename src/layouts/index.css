@@ -80,3 +80,16 @@ p {    font-size: 18px;
 img.gatsby-resp-image-image, span.gatsby-resp-image-background-image{
     margin-top: 60px;
 }
+
+.page-selector {
+    letter-spacing: 6px;
+}
+
+.page-selector a {
+    color: black;
+    text-decoration: none;
+}
+
+.page-selector a:hover {
+  color: transparent
+}
