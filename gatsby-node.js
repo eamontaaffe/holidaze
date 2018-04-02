@@ -29,7 +29,11 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
                     title
                     image {
                       childImageSharp {
-                        resolutions(width: 360, height: 360) {
+                        resolutions(
+                          width: 360,
+                          height: 360,
+                          cropFocus: CENTER
+                        ) {
                           base64
                           width
                           height
