@@ -2,7 +2,7 @@
 path: "/japan"
 date: "2017-02-25"
 title: "Osaka to Okinawa, Japan"
-image: "./DSCF5823.jpg"
+image: "./DSCF5823_cover.jpg"
 ---
 
 ![Osaka-Jō Hall](./DSCF3814.jpg)

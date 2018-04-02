@@ -2,7 +2,7 @@
 path: "/macau"
 date: "2017-12-20"
 title: "Macau"
-image: "./DSCF7110.jpg"
+image: "./DSCF7110_cover.jpg"
 ---
 
 ![Wong Chi Kei](./DSCF7005.jpg)

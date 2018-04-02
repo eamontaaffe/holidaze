@@ -2,7 +2,7 @@
 path: "/jodhpur"
 date: "2018-03-03"
 title: "Jodhpur, India"
-image: "./DSCF2755.jpg"
+image: "./DSCF2755_cover.jpg"
 ---
 
 ![Jodhpur](./DSCF2833.jpg)

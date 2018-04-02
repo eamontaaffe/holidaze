@@ -2,7 +2,7 @@
 path: "/colombo"
 date: "2018-02-08"
 title: "Colombo, Sri Lanka"
-image: "./DSCF1053.jpg"
+image: "./DSCF1053_cover.jpg"
 ---
 
 ![Mount Lavinia](./DSCF0978.jpg)

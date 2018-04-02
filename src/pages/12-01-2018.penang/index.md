@@ -2,7 +2,7 @@
 path: "/penang"
 date: "2018-01-11"
 title: "Penang, Malaysia"
-image: "./DSCF8545.jpg"
+image: "./DSCF8545_cover.jpg"
 ---
 
 ![23 Love Lane](./DSCF8545.jpg)
