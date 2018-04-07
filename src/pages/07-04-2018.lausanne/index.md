@@ -39,7 +39,7 @@ image: "./DSCF5618.jpg"
 ## Boat to Thonen, France
 
 ![Lausanne](./DSCF5498.jpg)
-## Thonen, France
+## Boat to Thonen, France
 
 ![Lausanne](./DSCF5509.jpg)
 ## Thonen, France
