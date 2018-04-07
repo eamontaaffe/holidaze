@@ -30,34 +30,34 @@ image: "./DSCF5618.jpg"
 ## Ouchy, Lausanne
 
 ![Lausanne](./DSCF5471.jpg)
-## Boat to Thonen, France
+## Boat to Thonon, France
 
 ![Lausanne](./DSCF5475.jpg)
-## Boat to Thonen, France
+## Boat to Thonon, France
 
 ![Lausanne](./DSCF5478.jpg)
-## Boat to Thonen, France
+## Boat to Thonon, France
 
 ![Lausanne](./DSCF5498.jpg)
-## Boat to Thonen, France
+## Boat to Thonon, France
 
-![Lausanne](./DSCF5509.jpg)
-## Thonen, France
+![Thonon](./DSCF5509.jpg)
+## Thonon, France
 
-![Lausanne](./DSCF5511.jpg)
-## Thonen, France
+![Thonon](./DSCF5511.jpg)
+## Thonon, France
 
-![Lausanne](./DSCF5543.jpg)
-## Thonen, France
+![Thonon](./DSCF5543.jpg)
+## Thonon, France
 
-![Lausanne](./DSCF5569.jpg)
-## Thonen, France
+![Thonon](./DSCF5569.jpg)
+## Thonon, France
 
-![Lausanne](./DSCF5574.jpg)
-## Thonen, France
+![Thonon](./DSCF5574.jpg)
+## Thonon, France
 
-![Lausanne](./DSCF5578.jpg)
-## Thonen, France
+![Thonon](./DSCF5578.jpg)
+## Thonon, France
 
 ![Lausanne](./DSCF5618.jpg)
 ## Back to Lausanne
