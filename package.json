@@ -20,6 +20,7 @@
     "gatsby"
   ],
   "license": "UNLICENSED",
+  "private": true,
   "main": "n/a",
   "scripts": {
     "build": "gatsby build",
