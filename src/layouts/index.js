@@ -9,7 +9,7 @@ const TemplateWrapper = ({ children, data }) => (
     <h1><Link to="/">{data.site.siteMetadata.title}</Link></h1>
     {children()}
     <h3 className="footer">
-      &copy; All images are copyright by <a href= "http://www.florenceltf.com">Florence Li Ting Fong</a> and <a href="https://eamontaaffe.github.io">Eamon Taaffe</a>.
+      &copy; All images are copyright of <a href= "http://www.florenceltf.com">Florence Li Ting Fong</a> and <a href="https://eamontaaffe.github.io">Eamon Taaffe</a>.
     </h3>
   </div>
 )
