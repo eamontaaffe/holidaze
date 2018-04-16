@@ -1,7 +1,7 @@
 ---
 path: "/caumasee"
 date: "2018-04-15"
-title: "Caumasee & Conn, Switzerland"
+title: "Caumasee & Versam, Switzerland"
 image: "./DSCF6218.jpg"
 ---
 
@@ -29,26 +29,26 @@ image: "./DSCF6218.jpg"
 ![Caumasee](./DSCF6406.jpg)
 ## Caumasee
 
-![Conn](./DSCF6315.jpg)
-## Conn
+![Versam](./DSCF6315.jpg)
+## Versam
 
-![Conn](./DSCF6302.jpg)
-## Conn
+![Versam](./DSCF6302.jpg)
+## Versam
 
-![Conn](./DSCF6339.jpg)
-## Conn
+![Versam](./DSCF6339.jpg)
+## Versam
 
-![Conn](./DSCF6356.jpg)
-## Conn
+![Versam](./DSCF6356.jpg)
+## Versam
 
-![Conn](./DSCF6343.jpg)
-## Conn
+![Versam](./DSCF6343.jpg)
+## Versam
 
-![Conn](./DSCF6357.jpg)
-## Conn
+![Versam](./DSCF6357.jpg)
+## Versam
 
-![Conn](./DSCF6390.jpg)
-## Conn
+![Versam](./DSCF6390.jpg)
+## Versam
 
 ![Chur](./DSCF6431.jpg)
 ## Chur
