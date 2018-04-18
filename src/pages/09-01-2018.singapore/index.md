@@ -2,7 +2,7 @@
 path: "/singapore"
 date: "2018-01-09"
 title: "Singapore"
-image: "./DSCF8189.jpg"
+image: "./DSCF8189_cover.jpg"
 ---
 
 ![Gardens by the Bay](./DSCF7563.jpg)

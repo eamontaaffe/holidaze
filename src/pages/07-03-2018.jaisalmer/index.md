@@ -2,7 +2,7 @@
 path: "/jaisalmer"
 date: "2018-03-05"
 title: "Jaisalmer, India"
-image: "./DSCF3338.jpg"
+image: "./DSCF3338_cover.jpg"
 ---
 
 ![Jaisalmer](./DSCF3338.jpg)
