@@ -1,93 +1,98 @@
 .template {
-    text-align: center;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-align: center;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 h1 {
-    font-size: 18px;
-    font-weight: normal;
-    margin-bottom: 60px;
-    margin-top: 50px;
+  font-size: 18px;
+  font-weight: normal;
+  margin-bottom: 60px;
+  margin-top: 50px;
 }
 
 h1 a {
-    color: black;
-    text-decoration: none;
-    border-bottom: solid 1px black;
+  color: black;
+  text-decoration: none;
+  border-bottom: solid 1px black;
 }
 
 h2 {
-    font-size: 18px;
-    font-weight: normal;
-    margin-bottom: 10px;
-    margin-top: 20px;
+  font-size: 18px;
+  font-weight: normal;
+  margin-bottom: 10px;
+  margin-top: 20px;
 }
 
 h2 a {
-    color: black;
-    text-decoration: none;
-    border-bottom: solid 1px black;
+  color: black;
+  text-decoration: none;
+  border-bottom: solid 1px black;
 }
 
 
 h3 {
-    font-size: 18px;
-    font-weight: normal;
-    margin-bottom: 10px;
+  font-size: 18px;
+  font-weight: normal;
+  margin-bottom: 10px;
 }
 
-p {    font-size: 18px;
-    font-weight: normal;
-    margin-bottom: 10px;
-    max-width: 700px;
-    margin: auto;
-
+p {
+  font-size: 18px;
+  font-weight: normal;
+  margin-bottom: 10px;
+  max-width: 700px;
+  margin: auto;
 }
 
 .index-page {
-    display: flex;
-    flex-wrap: wrap;
-    max-width: 1280px;
-    justify-content: center;
-    margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1280px;
+  justify-content: center;
+  margin: 0 auto;
 }
 
 .post {
-    margin: 30px;
-    margin-bottom: 80px;
+  margin: 30px;
+  margin-bottom: 80px;
 }
 
 .date {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 13px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 13px;
 }
 
 .footer{
-    margin-top: 80px;
-    margin-bottom: 30px;
+  margin-top: 80px;
+  margin-bottom: 30px;
 }
 
 .footer a {
-    color: black;
-    text-decoration: none;
-    border-bottom: solid 1px black;
+  color: black;
+  text-decoration: none;
+  border-bottom: solid 1px black;
 }
 
 .post-header {
-    margin-bottom: 60px;
+  margin-bottom: 60px;
 }
 
 img.gatsby-resp-image-image, span.gatsby-resp-image-background-image{
     margin-top: 60px;
 }
 
+/* Hide the alt text when the image is loading */
+img.gatsby-resp-image-image {
+  color: transparent;
+}
+
 .page-selector {
-    letter-spacing: 6px;
+  letter-spacing: 6px;
 }
 
 .page-selector a {
-    color: black;
-    text-decoration: none;
+  color: black;
+  text-decoration: none;
 }
 
 .page-selector a:hover {
