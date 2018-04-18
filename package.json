@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "author": "Eamon Taaffe <eamontaaffe@gmail.com>, Florence Li Ting Fong <florenceltf@gmail.com>",
   "dependencies": {
+    "better-queue": "^3.8.7",
     "gatsby": "^1.9.73",
     "gatsby-image": "^1.0.16",
     "gatsby-link": "^1.6.22",
