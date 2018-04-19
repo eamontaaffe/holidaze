@@ -11,7 +11,7 @@ cache:
 pages:
   script:
   - npm install
-  - ./node_modules/.bin/gatsby build
+  - ./node_modules/.bin/gatsby build --prefixPaths
   artifacts:
     paths:
     - public
