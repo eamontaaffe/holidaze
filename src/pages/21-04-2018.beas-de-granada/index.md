@@ -9,6 +9,8 @@ image: "./DSCF6936.jpg"
 
 ![Beas de Granada](./DSCF6914.jpg)
 
+![Beas de Granada](./DSCF7037.jpg)
+
 ![Beas de Granada](./DSCF6921.jpg)
 
 ![Beas de Granada](./DSCF6922.jpg)
