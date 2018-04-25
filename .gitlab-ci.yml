@@ -6,7 +6,6 @@ cache:
   paths:
   - node_modules/
   - .cache/
-  - public/
 
 pages:
   script:
