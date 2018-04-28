@@ -27,22 +27,22 @@ image: "./DSCF7430_cover.jpg"
 ## Mezquita
 
 ![Cordoba](./DSCF7374.jpg)
-## Viana Palace
+## Palacio de Viana
 
 ![Cordoba](./DSCF7380.jpg)
-## Palacio de Viana aka Viana Palace
+## Palacio de Viana
 
 ![Cordoba](./DSCF7372.jpg)
-## Palacio de Viana aka Viana Palace
+## Palacio de Viana
 
 ![Cordoba](./DSCF7403.jpg)
-## Palacio de Viana aka Viana Palace
+## Palacio de Viana
 
 ![Cordoba](./DSCF7382.jpg)
-## Palacio de Viana aka Viana Palace
+## Palacio de Viana
 
 ![Cordoba](./DSCF7420.jpg)
-## Palacio de Viana aka Viana Palace
+## Palacio de Viana
 
 ![Cordoba](./DSCF7311.jpg)
 ## Alcazar of the Christian Monarchs
