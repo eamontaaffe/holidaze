@@ -23,8 +23,6 @@ image: "./DSCF7756.jpg"
 
 ![Gibraltar](./DSCF7768.jpg)
 
-![Gibraltar](./DSCF7794.jpg)
-
 ![Gibraltar](./DSCF7818.jpg)
 
 ![Gibraltar](./DSCF7756.jpg)
