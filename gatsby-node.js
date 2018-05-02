@@ -16,7 +16,8 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
       graphql(
         `
           query GatsbyNodeQuery {
-            allMarkdownRemark(
+
+            posts: allMarkdownRemark(
               sort: {fields: [frontmatter___date],
               order: DESC}, filter: {frontmatter: {hidden: {ne: true}}}
             ) {
@@ -46,19 +47,32 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
                 }
               }
             }
+
+            hiddenPosts: allMarkdownRemark(
+              filter: {frontmatter: {hidden: {ne: false}}}
+            ) {
+              edges {
+                node {
+                  id
+                  frontmatter {
+                    path
+                  }
+                }
+              }
+            }
+
           }
 
-    `
+      `
       ).then(result => {
         if (result.errors) {
           console.error(result.errors)
           reject(result.errors)
         }
 
-        // Get all post edges
-        const edges = result.data.allMarkdownRemark.edges;
+        const edges = result.data.posts.edges;
 
-        // Create paginated index pages.
+        // Create paginated index pages
         createPaginatedPages({
           edges,
           createPage,
@@ -66,8 +80,11 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
           pageLength: PAGINATION_LENGTH,
         });
 
-        // Create blog posts pages.
-        _.each(edges, edge => {
+        const hiddenPosts = result.data.hiddenPosts.edges;
+        const allPosts = _.concat(edges, hiddenPosts);
+
+        // Create blog posts pages
+        _.each(allPosts, edge => {
           createPage({
             path: edge.node.frontmatter.path,
             component: blogPost,
