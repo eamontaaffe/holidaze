@@ -2,7 +2,7 @@
 path: "/ronda"
 date: "2018-05-02"
 title: "Ronda, Spain"
-image: "./DSCF7902.jpg"
+image: "./DSCF7918.jpg"
 ---
 
 ![Ronda](./DSCF7902.jpg)
