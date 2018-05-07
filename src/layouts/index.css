@@ -1,3 +1,8 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
 .template {
   text-align: center;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -62,15 +67,23 @@ p {
   font-size: 13px;
 }
 
-.footer{
+.footer {
+  background-color: black;
+  color: white;
+
   margin-top: 80px;
-  margin-bottom: 30px;
+
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 
-.footer a {
-  color: black;
+.copywrite {
+}
+
+.copywrite a {
+  color: white;
   text-decoration: none;
-  border-bottom: solid 1px black;
+  border-bottom: solid 1px white;
 }
 
 .post-header {
@@ -97,4 +110,48 @@ img.gatsby-resp-image-image {
 
 .page-selector a:hover {
   color: transparent
+}
+
+.subscription {
+  padding-bottom: 32px;
+}
+
+.subscription h3 {
+  padding: 0;
+  margin: 0;
+}
+
+.subscription input {
+  margin-top: 16px;
+  border: none;
+  background: none;
+  color: white;
+  color: white;
+  font-size: 18px;
+  font-weight: normal;
+  padding: 0px;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  margin: 8px;
+  border-bottom: solid 1px white;
+}
+
+.subscription button {
+  border: none;
+  background: none;
+  color: white;
+  font-size: 18px;
+  font-weight: normal;
+  padding: 8px;
+  border: solid 1px white;
+  margin: 8px;
+}
+
+.subscription button:active {
+  background-color: white;
+  color: black;
+}
+
+.subscription button:focus {
+  background-color: rgba(255, 255, 255 ,0.3);
 }
