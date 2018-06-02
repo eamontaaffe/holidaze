@@ -1,6 +1,11 @@
 version: 2
 jobs:
+
   build:
+    branches:
+      ignore:
+        - gh-pages
+
     docker:
       - image: circleci/node:7.10
 
@@ -10,7 +15,6 @@ jobs:
       - restore_cache:
           keys:
             - source-v1-{{ .Branch }}
-            - source-v1-
 
       - checkout
 
@@ -23,7 +27,8 @@ jobs:
           command: yarn build
 
       - save_cache:
-          key: source-v1-{{ .Branch }}
+          # Update the cache to have the latest contents
+          key: source-v1-{{ .Branch }}-{{ epoch }}
           paths:
             - ".git"
             - node_modules
@@ -34,7 +39,7 @@ jobs:
           name: Deploy to github pages
           command: |
             if [ $CIRCLE_BRANCH == $SOURCE_BRANCH ]; then
-              # git config --global user.email $GH_EMAIL
-              # git config --global user.name $GH_NAME
+              git config --global user.email $GH_EMAIL
+              git config --global user.name $GH_NAME
               yarn run deploy
             fi
