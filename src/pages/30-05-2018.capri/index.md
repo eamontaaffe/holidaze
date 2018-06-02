@@ -24,10 +24,10 @@ image: "./DSCF8580.jpg"
 ## Capri
 
 ![Capri](./DSCF8580.jpg)
-## Capri
+## Blue Grotto, Capri
 
 ![Capri](./DSCF8576.jpg)
-## Capri
+## Blue Grotto, Capri
 
 ![Capri](./DSCF8554.jpg)
 ## Capri
