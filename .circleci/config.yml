@@ -22,9 +22,14 @@ jobs:
           name: Install deps
           command: yarn install
 
-      - run:
-          name: Build the stuff
-          command: yarn build
+      - deploy:
+          name: Deploy to github pages
+          command: |
+            if [ $CIRCLE_BRANCH == $SOURCE_BRANCH ]; then
+              git config --global user.email $GH_EMAIL
+              git config --global user.name $GH_NAME
+              yarn run deploy:ci
+            fi
 
       - save_cache:
           # Update the cache to have the latest contents
@@ -34,12 +39,3 @@ jobs:
             - node_modules
             - public
             - .cache
-
-      - deploy:
-          name: Deploy to github pages
-          command: |
-            if [ $CIRCLE_BRANCH == $SOURCE_BRANCH ]; then
-              git config --global user.email $GH_EMAIL
-              git config --global user.name $GH_NAME
-              yarn run deploy
-            fi
