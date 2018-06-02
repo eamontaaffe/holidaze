@@ -56,7 +56,11 @@ class Subscription extends React.Component {
 
   render() {
     return (
-      <form className="subscription" onSubmit={this.handleSubmit}>
+      <form
+        id="subscribe"
+        className="subscription"
+        onSubmit={this.handleSubmit}
+      >
         <fieldset disabled={this.state.subscribing}>
           <input
             type="text"
