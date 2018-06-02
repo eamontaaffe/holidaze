@@ -35,6 +35,10 @@ jobs:
             - public
             - .cache
 
+      - run:
+          name: Print ssh stuff
+          command: cat ~/.ssh/config
+
       - deploy:
           name: Deploy to github pages
           command: |
