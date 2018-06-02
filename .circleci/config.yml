@@ -1,0 +1,40 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/node:7.10
+
+    working_directory: ~/repo
+
+    steps:
+      - restore_cache:
+          keys:
+            - source-v1-{{ .Branch }}
+            - source-v1-
+
+      - checkout
+
+      - run:
+          name: Install deps
+          command: yarn install
+
+      - run:
+          name: Build the stuff
+          command: yarn build
+
+      - save_cache:
+          key: source-v1-{{ .Branch }}
+          paths:
+            - ".git"
+            - node_modules
+            - public
+            - .cache
+
+      - deploy:
+          name: Deploy to github pages
+          command: |
+            if [ if [ $CIRCLE_BRANCH == $SOURCE_BRANCH ]; then
+              git config --global user.email $GH_EMAIL
+              git config --global user.name $GH_NAME
+              yarn run deploy
+            fi
