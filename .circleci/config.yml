@@ -10,7 +10,6 @@ jobs:
       - restore_cache:
           keys:
             - source-v1-{{ .Branch }}
-            - source-v1-
 
       - checkout
 
@@ -23,7 +22,8 @@ jobs:
           command: yarn build
 
       - save_cache:
-          key: source-v1-{{ .Branch }}
+          # Update the cache to have the latest contents
+          key: source-v1-{{ .Branch }}-{{ epoch }}
           paths:
             - ".git"
             - node_modules
