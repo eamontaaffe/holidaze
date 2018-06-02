@@ -116,6 +116,7 @@ img.gatsby-resp-image-image {
 .page-selector a {
   color: black;
   text-decoration: none;
+  border: none;
 }
 
 .page-selector a:hover {
