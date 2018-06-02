@@ -1,6 +1,6 @@
 ---
 path: "/film-02"
-date: "2018-06-02"
+date: "2018-06-01"
 title: "Film series #2"
 image: "./7671-029.jpg"
 ---
