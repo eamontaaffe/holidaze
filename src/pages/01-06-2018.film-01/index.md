@@ -56,7 +56,7 @@ image: "./8011-008_cover.jpg"
 
 <br />
 
-For a bit of fun, we picked up a [Canon
+We picked up a [Canon
 MC](http://camera-wiki.org/wiki/Canon_MC) at a flea market in Dusseldorf,
 Germany. This is the first roll of film that was shot with it. The film used is
 [Ilford HP5Plus](https://www.google.com/search?q=ilford+hp5&ie=utf-8&oe=utf-8&client=firefox-b-ab).
