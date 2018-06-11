@@ -1,6 +1,6 @@
 ---
 path: "/ericeira"
-date: "2018-06-02"
+date: "2018-06-09"
 title: "Ericeira, Portugal"
 image: "./DSCF9052.jpg"
 ---
