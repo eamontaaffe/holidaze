@@ -72,6 +72,20 @@ p {
   margin-bottom: 80px;
 }
 
+.post .title {
+    border-bottom: solid 1px transparent;
+    display: inline-block;
+}
+
+.post:hover .title {
+    border-bottom: solid 1px black;
+}
+
+.post .title-container {
+    display: inline-block;
+    width: 100%;
+}
+
 .date {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 13px;

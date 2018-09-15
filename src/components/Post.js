@@ -9,7 +9,9 @@ export default function Post(props) {
       <Link to={path}>
         <Image resolutions={image.childImageSharp.resolutions} />
       </Link>
-      <h3>{title}</h3>
+      <div className="title-container">
+        <h3 className="title">{title}</h3>
+      </div>
       <span className="date">{date}</span>
     </div>
   );
