@@ -2,7 +2,7 @@
 path: "/shanghai"
 date: "2018-09-17"
 title: "Shanghai, China"
-image: "./DSCF9576.jpg"
+image: "./DSCF9590.jpg"
 ---
 
 ![Shanghai](./DSCF9629.jpg)
