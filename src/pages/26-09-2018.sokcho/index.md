@@ -1,34 +1,29 @@
 ---
-path: "/chiang-mai"
-date: "2018-01-29"
-title: "Chiang Mai, Thailand"
-image: "./DSCF9842.jpg"
+path: "/sokcho"
+date: "2018-09-26"
+title: "Sokcho, South Korea"
+image: "./DSCF0182.jpg"
 ---
 
-![Chiang Mai](./DSCF9893.jpg)
-## Streets of Chiang Mai
+![Sokcho](./DSCF0157.jpg)
 
-![Chiang Mai](./DSCF9985.jpg)
-## Streets of Chiang Mai
+![Sokcho](./DSCF0203.jpg)
 
-![Chiang Mai](./DSCF9914.jpg)
-## Streets of Chiang Mai
+![Sokcho](./DSCF0182.jpg)
 
-![Chiang Mai](./DSCF9953.jpg)
-## Streets of Chiang Mai
+![Sokcho](./DSCF0190.jpg)
 
-![Chiang Mai](./DSCF9960.jpg)
-## Streets of Chiang Mai
+![Sokcho](./DSCF0213.jpg)
 
-![Chiang Mai](./DSCF9991.jpg)
-## Think Park Market
+![Sokcho](./DSCF0220.jpg)
 
-![Night Bazaar](./DSCF9842.jpg)
-## Night Bazaar
+![Sokcho](./DSCF0253.jpg)
 
-![Night Bazaar](./DSCF9835.jpg)
-## Night Bazaar
+![Sokcho](./DSCF0257.jpg)
 
-![Chiang Mai](./DSCF9918.jpg)
-## Khao Soi Khun Yai
+![Sokcho](./DSCF0260.jpg)
+
+![Sokcho](./DSCF0234.jpg)
+
+![Sokcho](./DSCF0270.jpg)
 

@@ -2,29 +2,8 @@
 path: "/seoul"
 date: "2018-09-20"
 title: "Seoul, South Korea"
-image: "./DSCF9786.jpg"
+image: "./DSCF9806.jpg"
 ---
-
-![Seoul](./DSCF9786.jpg)
-## Gyeongbokgung Palace
-
-![Seoul](./DSCF9798.jpg)
-## Gyeongbokgung Palace
-
-![Seoul](./DSCF9806.jpg)
-## Gyeongbokgung Palace
-
-![Seoul](./DSCF9829.jpg)
-## Gyeongbokgung Palace
-
-![Seoul](./DSCF9777.jpg)
-## Twins v. Bears at Jamsil Stadium
-
-![Seoul](./DSCF9917.jpg)
-## DMZ (De-Militarized Zone)
-
-![Seoul](./DSCF9925.jpg)
-## North Korea at the DMZ (De-Militarized Zone)
 
 ![Seoul](./DSCF9785.jpg)
 ## Streets of Hongdae
@@ -62,3 +41,23 @@ image: "./DSCF9786.jpg"
 ![Seoul](./DSCF0037.jpg)
 ## Raccoon Cafe
 
+![Seoul](./DSCF9777.jpg)
+## Twins v. Bears at Jamsil Stadium
+
+![Seoul](./DSCF9786.jpg)
+## Gyeongbokgung Palace
+
+![Seoul](./DSCF9798.jpg)
+## Gyeongbokgung Palace
+
+![Seoul](./DSCF9806.jpg)
+## Gyeongbokgung Palace
+
+![Seoul](./DSCF9829.jpg)
+## Gyeongbokgung Palace
+
+![Seoul](./DSCF9917.jpg)
+## DMZ (De-Militarized Zone)
+
+![Seoul](./DSCF9925.jpg)
+## North Korea at the DMZ (De-Militarized Zone)
