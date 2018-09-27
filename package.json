@@ -30,7 +30,7 @@
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js'",
     "test": "echo \"Warning: no test specified\" && exit 0",
     "clean": "find . -name \".DS_Store\" -depth -exec rm {} \\;",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public -m 'Updates [ci skip]'"
   },
   "devDependencies": {
     "gh-pages": "^1.1.0",
