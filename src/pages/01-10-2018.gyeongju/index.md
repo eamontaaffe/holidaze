@@ -1,6 +1,6 @@
 ---
 path: "/gyeongju"
-date: "2018-10-27"
+date: "2018-09-27"
 title: "Gyeongju, South Korea"
 image: "./DSCF0421.jpg"
 ---
