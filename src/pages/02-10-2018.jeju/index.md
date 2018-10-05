@@ -20,9 +20,6 @@ image: "./DSCF0664.jpg"
 ![Jeju](./DSCF0648.jpg)
 ## Mount Hallasan
 
-![Jeju](./DSCF0639.jpg)
-## Mount Hallasan
-
 ![Jeju](./DSCF0652.jpg)
 ## Mount Hallasan
 
@@ -54,5 +51,7 @@ image: "./DSCF0664.jpg"
 ## Mount Hallasan
 
 ![Jeju](./DSCF0761.jpg)
+## Jusangjeolli
 
 ![Jeju](./DSCF0768.jpg)
+## Jusangjeolli
