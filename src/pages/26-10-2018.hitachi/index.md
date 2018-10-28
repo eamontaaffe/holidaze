@@ -1,7 +1,7 @@
 ---
 path: "/hitachi"
 date: "2018-10-26"
-title: "Hitachi Seaside Park, Hitachi, Japan"
+title: "Hitachi Seaside Park, Japan"
 image: "./DSCF1220.jpg"
 ---
 

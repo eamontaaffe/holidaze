@@ -1,7 +1,7 @@
 ---
 path: "/daisetsuzan"
 date: "2018-10-19"
-title: "Asahidake, Daisetsuzan National Park"
+title: "Daisetsuzan National Park, Japan"
 image: "./DSCF0997.jpg"
 ---
 

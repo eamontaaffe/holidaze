@@ -2,7 +2,7 @@
 path: "/jeju"
 date: "2018-10-05"
 title: "Jeju, South Korea"
-image: "./DSCF0664.jpg"
+image: "./DSCF0711.jpg"
 ---
 
 ![Jeju](./DSCF0611.jpg)
