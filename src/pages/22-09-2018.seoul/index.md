@@ -61,3 +61,5 @@ image: "./DSCF9806.jpg"
 
 ![Seoul](./DSCF9925.jpg)
 ## North Korea at the DMZ (De-Militarized Zone)
+
+# [The areas of Seoul, South Korea](/seoul-notes)
