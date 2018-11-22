@@ -1,7 +1,7 @@
 ---
 path: "/tam-coc"
 date: "2018-11-16"
-title: "Tam Coc, Vietnam"
+title: "Ninh Binh, Vietnam"
 image: "./DSCF2702.jpg"
 ---
 
