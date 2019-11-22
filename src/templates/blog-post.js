@@ -1,24 +1,26 @@
 import React from 'react'
-import get from 'lodash/get'
+import Layout from '../components/Layout';
+import { graphql } from 'gatsby';
 
 class BlogPostTemplate extends React.Component {
   render() {
-    const post = this.props.data.markdownRemark
-    const siteTitle = get(this.props, 'data.site.siteMetadata.title')
+    const post = this.props.data.markdownRemark;
 
     return (
-      <div>
-        <div className="post-header">
-          <h2>{post.frontmatter.title}</h2>
-          <p className="date">
-            {post.frontmatter.date}
-          </p>
+      <Layout>
+        <div>
+          <div className="post-header">
+            <h2>{post.frontmatter.title}</h2>
+            <p className="date">
+              {post.frontmatter.date}
+            </p>
+          </div>
+          <div
+            className="blog-post-content"
+            dangerouslySetInnerHTML={{ __html: post.html }}
+          />
         </div>
-        <div
-          className="blog-post-content"
-          dangerouslySetInnerHTML={{ __html: post.html }}
-        />
-      </div>
+      </Layout>
     )
   }
 }

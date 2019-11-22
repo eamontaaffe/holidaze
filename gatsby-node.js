@@ -6,8 +6,8 @@ const select = require(`unist-util-select`)
 
 const PAGINATION_LENGTH = 12;
 
-exports.createPages = ({ graphql, boundActionCreators }) => {
-  const { createPage } = boundActionCreators
+exports.createPages = ({ graphql, actions }) => {
+  const { createPage } = actions
 
   return new Promise((resolve, reject) => {
     const pages = []
@@ -30,7 +30,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
                     title
                     image {
                       childImageSharp {
-                        resolutions(
+                        fixed(
                           width: 360
                           height: 360
                           cropFocus: CENTER
