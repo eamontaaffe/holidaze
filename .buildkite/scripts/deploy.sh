@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -eou pipefall
+set -euo pipefail
 
 npm install
 
