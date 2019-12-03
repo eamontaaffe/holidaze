@@ -1,5 +1,6 @@
 steps:
   - name: Deploy
+    branches: master
     command: .buildkite/scripts/deploy.sh
     env:
       GH_EMAIL: eamontaaffe@gmail.com
