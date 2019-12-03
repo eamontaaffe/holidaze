@@ -5,6 +5,7 @@ steps:
       - docker#v3.2.0:
           image: "node:8"
           propagate-environment: true
+          mount-ssh-agent: true
 
     command: .buildkite/scripts/deploy.sh
     env:
