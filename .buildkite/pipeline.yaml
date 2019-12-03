@@ -4,7 +4,7 @@ steps:
     plugins:
       - docker#v3.2.0:
           image: "node:8"
-          env:
+          environment:
             - GH_EMAIL
             - GH_NAME
 
