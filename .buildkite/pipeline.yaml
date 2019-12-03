@@ -4,9 +4,7 @@ steps:
     plugins:
       - docker#v3.2.0:
           image: "node:8"
-          environment:
-            - GH_EMAIL
-            - GH_NAME
+          propagate-environment: true
 
     command: .buildkite/scripts/deploy.sh
     env:
