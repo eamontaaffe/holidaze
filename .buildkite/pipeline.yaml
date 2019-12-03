@@ -3,7 +3,7 @@ steps:
     branches: master
     plugins:
       - docker#v3.2.0:
-        image: "node:8"
+          image: "node:8"
     command: .buildkite/scripts/deploy.sh
     env:
       GH_EMAIL: eamontaaffe@gmail.com
