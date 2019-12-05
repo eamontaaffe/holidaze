@@ -1,7 +1,7 @@
 ---
 path: "/abel-tasman"
 date: "2019-11-03"
-title: "Abel Tasman National Park"
+title: "Abel Tasman National Park, New Zealand"
 image: "./DSCF3924.jpg"
 ---
 
