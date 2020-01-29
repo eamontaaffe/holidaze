@@ -1,44 +1,81 @@
 ---
-path: "/macau"
-date: "2017-12-20"
-title: "Macau"
-image: "./DSCF7110_cover.jpg"
+path: "/indonesia"
+date: "2019-12-19"
+title: "Indonesia"
+image: "./DSCF4550.jpg"
 ---
 
-![Wong Chi Kei](./DSCF7005.jpg)
-## Wong Chi Kei
-<span class="date">21.12.2017</span>
+![Gilli T](./DSCF4423.jpg)
+## Gilli T
 
-![Taipa Village](./DSCF7058.jpg)
-## Taipa Village
-<span class="date">21.12.2017</span>
+![Gilli T](./DSCF4413.jpg)
+## Gilli T
 
-![Taipa Village](./DSCF7046.jpg)
-## Taipa Village
-<span class="date">21.12.2017</span>
+![Gilli T](./DSCF4415.jpg)
+## Gilli T
 
-![Taipa Village](./DSCF7061.jpg)
-## Taipa Village
-<span class="date">21.12.2017</span>
+![Gilli T](./DSCF4408.jpg)
+## Gilli T
 
-![Taipa Houses Museum](./DSCF7086.jpg)
-## Taipa Houses Museum
-<span class="date">21.12.2017</span>
+![Gilli T](./DSCF4424.jpg)
+## Gilli T
 
-![Taipa Village](./DSCF7063.jpg)
-## Taipa Village
-<span class="date">21.12.2017</span>
+![Gilli T](./DSCF4443.jpg)
+## Gilli T
 
-![Coloane Village](./DSCF7101.jpg)
-## Coloane Village
-<span class="date">21.12.2017</span>
+![Gilli T](./DSCF4439.jpg)
+## Gilli T
 
-![Coloane Village](./DSCF7133.jpg)
-## Coloane Village
-<span class="date">21.12.2017</span>
+![Gilli T](./DSCF4447.jpg)
+## Gilli T
 
-![Coloane Village](./DSCF7110.jpg)
-## Coloane Village
-<span class="date">21.12.2017</span>
+![Gilli T](./DSCF4448.jpg)
+## Gilli T
 
-# [Our picks for Hong Kong and Macau](/hk-notes)
+![Gilli Air](./DSCF4451.jpg)
+## Gilli Air
+
+![Gilli Meno](./DSCF4489.jpg)
+## Gilli Meno
+
+![Nusa Lembongan](./DSCF4511.jpg)
+## Nusa Lembongan
+
+![Nusa Lembongan](./DSCF4513.jpg)
+## Nusa Lembongan
+
+![Nusa Lembongan](./DSCF4520.jpg)
+## Nusa Lembongan
+
+![Nusa Lembongan](./DSCF4498.jpg)
+## Nusa Lembongan
+
+![Nusa Lembongan](./DSCF4522.jpg)
+## Nusa Lembongan
+
+![Nusa Lembongan](./DSCF4533.jpg)
+## Nusa Lembongan
+
+![Nusa Lembongan](./DSCF4539.jpg)
+## Nusa Lembongan
+
+![Nusa Lembongan](./DSCF4540.jpg)
+## Nusa Lembongan
+
+![Nusa Lembongan](./DSCF4541.jpg)
+## Nusa Lembongan
+
+![Nusa Lembongan](./DSCF4550.jpg)
+## Nusa Lembongan
+
+![Nusa Lembongan](./DSCF4555.jpg)
+## Nusa Lembongan
+
+![Nusa Lembongan](./DSCF4561.jpg)
+## Nusa Lembongan
+
+![Nusa Lembongan](./DSCF4564.jpg)
+## Nusa Lembongan
+
+![Nusa Lembongan](./DSCF4568.jpg)
+## Nusa Lembongan
