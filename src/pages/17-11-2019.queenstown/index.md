@@ -1,7 +1,7 @@
 ---
 path: "/queenstown"
 date: "2019-11-11"
-title: "Queenstown"
+title: "Queenstown, New Zealand"
 image: "./DSCF4224.jpg"
 ---
 
