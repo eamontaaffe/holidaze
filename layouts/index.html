@@ -1,0 +1,15 @@
+{{ define "main" }}
+  <main>
+    <h1>{{ .Title }}  - <code>layouts/index.html</code></h1>
+
+    <p><a href="/countries">Photo Index</a></p>
+    <p><a href="/posts">Posts</a></p>
+    <p><a href="/information">Information</a></p>
+
+    {{ range .Resources.ByType "image" }}
+        <li>
+          <img src="{{ (.Resize "200x").RelPermalink }}" alt="{{ .Name }}">
+        </li>
+      {{ end }}
+  </main>
+{{ end }}

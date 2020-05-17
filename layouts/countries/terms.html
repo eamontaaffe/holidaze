@@ -1,0 +1,16 @@
+{{ define "title" }}
+  {{ .Site.Title }} - {{ .Title }}
+{{ end }}
+
+{{ define "main" }}
+  <main>
+    <h1>{{ .Title }} - <code>layouts/countries/term.html</code></h1>
+
+    <p>
+      {{ range .Data.Terms.Alphabetical }}
+      <a href="{{ .Page.Permalink }}">{{ .Page.Title }} <sup>({{ .Count }})</sup></a>,
+      {{ end }}
+    </p>
+  </main>
+{{ end }}
+
