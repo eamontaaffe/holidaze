@@ -1,0 +1,7 @@
+title: Holidays
+baseURL: "https://holidaze.florenceltf.com/"
+languageCode: "en-au"
+taxonomies:
+  country: countries
+params:
+  status: Currently in isolation
