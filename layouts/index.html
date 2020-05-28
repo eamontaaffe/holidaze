@@ -1,15 +1,20 @@
 {{ define "main" }}
-  <main>
-    <h1>{{ .Title }}  - <code>layouts/index.html</code></h1>
+<main>
 
-    <p><a href="/countries">Photo Index</a></p>
-    <p><a href="/posts">Posts</a></p>
-    <p><a href="/information">Information</a></p>
+  <div class="slideshow-container">
 
     {{ range .Resources.ByType "image" }}
-        <li>
-          <img src="{{ (.Resize "200x").RelPermalink }}" alt="{{ .Name }}">
-        </li>
-      {{ end }}
-  </main>
+    <div class="slides fade" id="img-01" onclick="plusSlides(1)">
+      <div class="counter">
+        <div class="counter-number">{{ "1" }}</div>
+        <div class="">out of</div>
+        <div class="counter-total">{{ "8" }}</div>
+      </div>
+      <img src="{{ .RelPermalink }}" alt="{{ .Name }}" style="height: 100%; width: 100%; object-fit: cover;">
+      <div class="cursor" id="cursor-img-01">{{ .Name }}</div>
+    </div>
+    {{ end }}
+
+  </div>
+</main>
 {{ end }}

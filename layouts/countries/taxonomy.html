@@ -1,15 +1,14 @@
 {{ define "title" }}
-  {{ .Site.Title }} - {{ .Title }}
+{{ .Site.Title }} - {{ .Title }}
 {{ end }}
 
 {{ define "main" }}
-  <main>
-    <h1>{{ .Title }} - <code>layouts/countries/taxonomy.html</code></h1>
-    <ul>
-      {{ range .Pages }}
-        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-      {{ end }}
-    </ul>
-  </main>
+<main>
+  TAXONOMY
+  <ul>
+    {{ range .Pages }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+</main>
 {{ end }}
-
