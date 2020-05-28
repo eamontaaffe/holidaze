@@ -1,6 +1,24 @@
+{{ define "header" }}
+
+<header class="information-header">
+  <div class="title">
+    <a href="/">
+      <h1>{{ .Site.Title }}</h1>
+    </a>
+    <span>:</span>
+    <marquee>{{ .Site.Params.Status }}</marquee>
+  </div>
+  <nav>
+    <a href="/photo-index">Photo Index</a>, <a href="/information">Information</a>
+  </nav>
+</header>
+
+{{ end }}
+
 {{ define "main" }}
-  <main>
-    <h1>{{ .Title }} - <code>layouts/_default/information.html</code></h1>
+<main class="information-container">
+  <h3>
     {{ .Content }}
-  </main>
+  </h3>
+</main>
 {{ end }}

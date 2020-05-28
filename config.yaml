@@ -4,4 +4,8 @@ languageCode: "en-au"
 taxonomies:
   country: countries
 params:
-  status: Currently in isolation
+  status: Currently In Isolation
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

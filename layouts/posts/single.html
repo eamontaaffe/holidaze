@@ -1,16 +1,16 @@
 {{ define "title" }}
-  {{ .Site.Title }} - {{ .Title }}
+{{ .Site.Title }} - {{ .Title }}
 {{ end }}
 
 {{ define "main" }}
-  <main>
-    <h1>{{ .Title }} - <code>layouts/posts/single.html</code></h1>
-    <ul>
-      {{ range .Resources.ByType "image" }}
-        <li>
-          <img src="{{ (.Resize "200x").RelPermalink }}" alt="{{ .Name }}">
-        </li>
-      {{ end }}
-    </ul>
-  </main>
+<main>
+  <h1>{{ .Title }} - <code>layouts/posts/single.html</code></h1>
+  <ul>
+    {{ range .Resources.ByType "image" }}
+    <li>
+      <img src="{{ (.Resize "200x").RelPermalink }}" alt="{{ .Name }}">
+    </li>
+    {{ end }}
+  </ul>
+</main>
 {{ end }}

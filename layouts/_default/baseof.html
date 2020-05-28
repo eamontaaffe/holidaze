@@ -1,25 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>
-      {{ block "title" . }}
-        {{ .Site.Title }}
-      {{ end }}
-    </title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="icon" href="favicon.png" type="image/png" sizes="16x16">
-  </head>
-  <body>
-    {{ block "header" . }}
-      <header>
-        <a href="/">{{ .Site.Title }}</a><marquee>{{ .Site.Params.Status }}</marquee>
-      </header>
+
+<head>
+  <meta charset="utf-8">
+  <title>
+    {{ block "title" . }}
+    {{ .Site.Title }}
     {{ end }}
+  </title>
+  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+  <link rel="icon" href="{{ "img/favicon.png" | relURL }}" type="image/png" sizes="16x16">
+</head>
 
-    {{ block "main" . }} {{ end }}
+<body>
+  {{ block "header" . }}
+  <header>
+    <div class="title">
+      <a href="/">
+        <h1>{{ .Site.Title }}</h1>
+      </a>
+      <span>:</span>
+      <marquee>{{ .Site.Params.Status }}</marquee>
+    </div>
+    <nav>
+      <a href="/photo-index">Photo Index</a>, <a href="/information">Information</a>
+    </nav>
+  </header>
+  {{ end }}
 
-    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-    <script src="index.js"></script>
-  </body>
+  {{ block "main" . }}{{ end }}
+
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+  <script src="{{ "js/index.js" | relURL }}"></script>
+</body>
+
 </html>

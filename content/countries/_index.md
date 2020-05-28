@@ -1,0 +1,3 @@
+---
+url: /photo-index/
+---
