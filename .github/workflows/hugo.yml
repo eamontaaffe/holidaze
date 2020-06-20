@@ -14,6 +14,11 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Setup
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.72.0'
+
       - name: Build
         run: hugo
 
