@@ -6,8 +6,12 @@
 <main>
   <h2>
     Recent :<br />
-    {{ range .Data.Terms.Alphabetical }}
-    <a href="{{ .Page.Permalink }}">{{ .Page.Title }} <sup>({{ .Count }})</sup></a>,
+    {{ $terms := .Data.Terms.Alphabetical }}
+    {{ range $index, $element := $terms }}
+    <a href="{{ $element.Page.Permalink }}">
+      {{ $element.Page.Title }} <sup>({{ $element.Count }})</sup>
+    </a>
+    {{ with (ne $index (sub (len $terms) 1)) }},{{ end }}
     {{ end }}
   </h2>
 </main>
