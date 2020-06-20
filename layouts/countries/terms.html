@@ -9,9 +9,9 @@
     {{ $terms := .Data.Terms.Alphabetical }}
     {{ range $index, $element := $terms }}
     <a href="{{ $element.Page.Permalink }}">
-      {{ $element.Page.Title }} <sup>({{ $element.Count }})</sup>
-    </a>
-    {{ with (ne $index (sub (len $terms) 1)) }},{{ end }}
+      {{ $element.Page.Title }}<sup>({{ $element.Count }})</sup
+    ></a
+    >{{ with (ne $index (sub (len $terms) 1)) }}, {{ end }}
     {{ end }}
   </h2>
 </main>
