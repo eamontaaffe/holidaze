@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>
+    {{ block "title" . }}
+    {{ .Site.Title }}
+    {{ end }}
+  </title>
+  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+  <link rel="icon" href="{{ "img/favicon.png" | relURL }}" type="image/png" sizes="16x16">
+</head>
+
+<body>
+  {{ block "header" . }}
+  <header>
+    <div class="title">
+      <a href="/">
+        <h1>{{ .Site.Title }}</h1>
+      </a>
+      <span>:</span>
+      <marquee>{{ .Site.Params.Status }}</marquee>
+    </div>
+    <nav>
+      <a href="/photo-index">Photo Index</a>, <a href="/information">Information</a>
+    </nav>
+  </header>
+  {{ end }}
+
+  {{ block "main" . }}{{ end }}
+</body>
+
+</html>

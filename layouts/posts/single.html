@@ -1,0 +1,18 @@
+{{ define "main" }}
+<main>
+
+  <h2>{{ index .Params.countries 0 }} : <br> {{ .Title }}</h2>
+
+  <div class="post">
+
+    <div class="image-gallery">
+      {{ range .Resources.ByType "image" }}
+      <img src="{{ .RelPermalink }}" alt="{{ .Name }}" style="height: 100%; width: 100%; object-fit: cover"
+        class="fade">
+      {{ end }}
+    </div>
+
+  </div>
+
+</main>
+{{ end }}

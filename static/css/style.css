@@ -1,0 +1,296 @@
+@font-face {
+    font-family: Patron;
+    src: url("/font/Patron-Light.ttf") format("opentype");
+}
+
+body {
+    height:100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-items: space-between;
+    margin: 0;
+    padding: 0;
+    font-family: "Patron", -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
+    font-weight: lighter;
+    font-size: 18px;
+    opacity: 1;
+}
+
+::selection {
+    background: black;
+}
+
+/* nav */
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 0;
+    }
+
+h1 {
+    font-size: 18px;
+    font-weight: lighter;
+    margin: 0;
+}
+
+.title {
+    display: flex;
+}
+
+.title a {
+    color: black;
+    text-decoration: none;
+}
+
+marquee {
+    width: 200px;
+}
+
+span {
+    margin-left: 5px;
+    margin-right: 8px;
+}
+
+nav {
+    margin-left: 20px;
+}
+
+nav a {
+    color: black;
+    text-decoration: none;
+    display: inline;
+}
+
+nav a:hover {
+    border-bottom: 1px solid black;
+}
+
+main {
+    height: 100%;
+}
+
+/* slideshow */
+
+#slideshow-container {
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+    display:flex;
+    cursor: pointer;
+}
+
+.slides {
+    display: none;
+}
+
+.counter {
+    text-align: center;
+    width: 100%;
+    color: white;
+    font-size: 18px;
+    padding: 30px 0;
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.counter-number, .counter-total {
+    padding: 0 30px;
+    width: 20px;
+}
+
+.fade {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 1.5s;
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+
+.fade-fast {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: .5s;
+    animation-name: fade;
+    animation-duration: .5s;
+}
+
+@-webkit-keyframes fade {
+    from {
+        opacity: .4
+    }
+
+    to {
+        opacity: 1
+    }
+}
+
+@keyframes fade {
+    from {
+        opacity: .4
+    }
+
+    to {
+        opacity: 1
+    }
+}
+
+/* information */
+
+.information-header,
+.information-header nav a,
+.information-header h1
+{
+    background-color: black;
+    color: white;
+}
+
+.information-header nav a:hover {
+    border-bottom: 1px solid white;
+}
+
+
+.information-header {
+    background: black;
+    color: white;
+}
+
+.information-container {
+    background: black;
+    height: 100vh;
+}
+
+p {
+    margin:0;
+}
+
+h3
+ {
+    color: white;
+    font-size: 50px;
+    font-weight: lighter;
+    margin: 0;
+    padding:20px;
+}
+
+h3 a {
+    color: white;
+    text-decoration: none;
+}
+
+h3 a:hover {
+    border-bottom: 2px solid white;
+}
+
+/* photo-index */
+
+h2 {
+    font-size: 50px;
+    font-weight: lighter;
+    padding: 20px;
+    margin: 0;
+}
+
+h2 a{
+    color: black;
+    text-decoration: none;
+}
+
+h2 a:hover {
+    border-bottom: 2px solid black;
+}
+
+/* country */
+
+.country-gallery {
+    display: flex;
+    margin-top: 30px;
+}
+
+.country-image {
+    margin: 0 20px;
+    max-width: 50%;
+}
+
+.country-image {
+	position: relative;
+	overflow: hidden;
+}
+
+.country-image img {
+	max-width: 100%;
+}
+
+.country-image .overlay {
+	opacity: 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+    background-color: white;
+    border: 1px solid black;
+	color: black;
+    padding: 20px;
+}
+
+.country-image:hover .overlay,
+.country-image.active {
+	opacity: 1;
+}
+
+.overlay {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+/* single */
+
+.image-gallery {
+    padding: 20px;
+    width: 50%;
+}
+
+.image-gallery img {
+    margin-bottom: 20px;
+}
+
+/* mobile */
+
+@media (max-width: 767px) {
+    
+    .country-image {
+        margin: 0 20px;
+        max-width: 100%;
+    }
+
+    .post {
+    padding: 20px;
+    }
+
+    .image-gallery {
+        width: 100%;
+        padding: 0;
+    }
+
+  }
+
+  @media (max-width: 550px) {
+
+    marquee, span {
+        display: none;
+    }
+
+  }
+#cursor {
+    display: none;
+    position: absolute;
+    color: white;
+    transition: transform .4s;
+    text-align: center;
+    width: 150px;
+    font-weight: 600;
+}
