@@ -204,26 +204,27 @@ h2 a:hover {
 
 /* country */
 
-.country-gallery {
+.post-gallery {
     display: flex;
-    margin-top: 30px;
+    margin-right: 20px;
+    margin-bottom: 20px;
 }
 
-.country-image {
-    margin: 0 20px;
+.post-image {
     max-width: 50%;
+    margin-left: 20px;
 }
 
-.country-image {
+.post-image {
 	position: relative;
-	overflow: hidden;
+    overflow: hidden;
 }
 
-.country-image img {
+.post-image img {
 	max-width: 100%;
 }
 
-.country-image .overlay {
+.post-image .overlay {
 	opacity: 0;
 	position: absolute;
 	top: 0;
@@ -236,8 +237,8 @@ h2 a:hover {
     padding: 20px;
 }
 
-.country-image:hover .overlay,
-.country-image.active {
+.post-image:hover .overlay,
+.post-image.active {
 	opacity: 1;
 }
 
@@ -249,20 +250,30 @@ h2 a:hover {
 
 /* single */
 
-.image-gallery {
-    padding: 20px;
+.post-counter {
+    align-self: flex-end;
     width: 50%;
-}
-
-.image-gallery img {
-    margin-bottom: 20px;
+    text-align: right;
+    margin-left: 20px;  
 }
 
 /* mobile */
 
 @media (max-width: 767px) {
+
+    .post-gallery {
+        display: block;
+    }
+
+    .post-image {
+        max-width: 100%;
+        margin-bottom: 20px;
+    }
     
-    .country-image {
+    .post-counter {
+        display: none;
+    }
+    /* .country-image {
         margin: 0 20px;
         max-width: 100%;
     }
@@ -274,7 +285,7 @@ h2 a:hover {
     .image-gallery {
         width: 100%;
         padding: 0;
-    }
+    } */
 
   }
 
@@ -292,5 +303,4 @@ h2 a:hover {
     transition: transform .4s;
     text-align: center;
     width: 150px;
-    font-weight: 600;
 }
