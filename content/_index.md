@@ -9,7 +9,7 @@ resources:
     src: image-03.jpg
   - name: Udawalawa National Park, Sri Lanka
     src: image-04.jpg
-  - name: Hitachi Seaside Park,Tokyo, Japan
+  - name: Hitachi Seaside Park, Tokyo, Japan
     src: image-05.jpg
   - name: Mt. Hallasan, Jeju Island, South Korea
     src: image-06.jpg
