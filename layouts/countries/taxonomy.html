@@ -6,8 +6,14 @@
 <main>
   TAXONOMY
   <ul>
-    {{ range .Pages }}
-    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ range $page := .Pages }}
+
+    <li>
+      <a href="{{ $page.Permalink }}">{{ $page.Title }}</a>
+      {{ with (.Resources.ByType "image").GetMatch "*feature*" }}
+        <img src="{{ (.Resize "200x").RelPermalink }}">
+      {{ end }}
+    </li>
     {{ end }}
   </ul>
 </main>

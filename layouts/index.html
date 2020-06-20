@@ -3,12 +3,13 @@
 
   <div class="slideshow-container">
 
-    {{ range .Resources.ByType "image" }}
+    {{ $images := .Resources.ByType "image" }}
+    {{ range $index, $element := $images }}
     <div class="slides fade" id="img-01" onclick="plusSlides(1)">
       <div class="counter">
-        <div class="counter-number">{{ "1" }}</div>
+        <div class="counter-number">{{ add $index 1 }}</div>
         <div class="">out of</div>
-        <div class="counter-total">{{ "8" }}</div>
+        <div class="counter-total">{{ len $images }}</div>
       </div>
       <img src="{{ .RelPermalink }}" alt="{{ .Name }}" style="height: 100%; width: 100%; object-fit: cover;">
       <div class="cursor" id="cursor-img-01">{{ .Name }}</div>
