@@ -1,7 +1,5 @@
 {{ define "main" }}
-<main>
-
-  <div id="slideshow-container">
+<main id="slideshow-container">
 
     {{ $images := .Resources.ByType "image" }}
     {{ range $index, $element := $images }}
@@ -21,7 +19,6 @@
       {{ end }}
     </div>
 
-  </div>
 </main>
 
 <script src="{{ "js/index.js" | relURL }}"></script>
