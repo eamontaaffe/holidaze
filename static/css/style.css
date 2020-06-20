@@ -72,11 +72,12 @@ main {
 
 /* slideshow */
 
-.slideshow-container {
+#slideshow-container {
     height: 100%;
     position: relative;
     overflow: hidden;
     display:flex;
+    cursor: pointer;
 }
 
 .slides {
@@ -162,4 +163,14 @@ h2 a{
 
 h2 a:hover {
     border-bottom: 2px solid black;
+}
+
+#cursor {
+    display: none;
+    position: absolute;
+    color: white;
+    transition: transform .4s;
+    text-align: center;
+    width: 150px;
+    font-weight: 600;
 }
