@@ -3,16 +3,18 @@
 
   <h2>{{ index .Params.countries 0 }} : <br> {{ .Title }}</h2>
 
-  <div class="post">
+  {{ range .Resources.ByType "image" }}
+  <div class="post-gallery">
 
-    <div class="image-gallery">
-      {{ range .Resources.ByType "image" }}
+    <div class="post-image">
       <img src="{{ .RelPermalink }}" alt="{{ .Name }}" style="height: 100%; width: 100%; object-fit: cover"
         class="fade">
-      {{ end }}
     </div>
 
+    <div class="post-counter">01</div>
+
   </div>
+  {{ end }}
 
 </main>
 {{ end }}
