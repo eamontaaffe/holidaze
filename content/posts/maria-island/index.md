@@ -1,5 +1,5 @@
 ---
-title: Maria Island
+title: Maria Island, Tasmania
 date: 2019-04-29
 countries:
   - Australia

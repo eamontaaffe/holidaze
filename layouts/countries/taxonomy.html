@@ -1,20 +1,27 @@
-{{ define "title" }}
-{{ .Site.Title }} - {{ .Title }}
-{{ end }}
-
 {{ define "main" }}
+
 <main>
-  TAXONOMY
-  <ul>
+
+  <h2>Currently Viewing : <br>{{ .Name }}</h2>
+
+  <div class="country-gallery">
     {{ range $page := .Pages }}
 
-    <li>
-      <a href="{{ $page.Permalink }}">{{ $page.Title }}</a>
+    <div class="country-image">
       {{ with (.Resources.ByType "image").GetMatch "*feature*" }}
-        <img src="{{ (.Resize "200x").RelPermalink }}">
+      <img src="{{ .RelPermalink }}" style="height: 100%; width: 100%; object-fit: cover" class="fade">
+
+      <a href="{{ $page.Permalink }}">
+        <div class="overlay">
+          <div class="caption">{{ $page.Title }}</div>
+          <div class="date">{{ $page.Date.Format "02 . 01 . 2006" }}</div>
+        </div>
+      </a>
       {{ end }}
-    </li>
+    </div>
     {{ end }}
-  </ul>
+  </div>
+
 </main>
+
 {{ end }}

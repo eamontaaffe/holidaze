@@ -1,16 +1,18 @@
-{{ define "title" }}
-{{ .Site.Title }} - {{ .Title }}
-{{ end }}
-
 {{ define "main" }}
 <main>
-  <h1>{{ .Title }} - <code>layouts/posts/single.html</code></h1>
-  <ul>
-    {{ range .Resources.ByType "image" }}
-    <li>
-      <img src="{{ (.Resize "200x").RelPermalink }}" alt="{{ .Name }}">
-    </li>
-    {{ end }}
-  </ul>
+
+  <h2>{{ index .Params.countries 0 }} : <br> {{ .Title }}</h2>
+
+  <div class="post">
+
+    <div class="image-gallery">
+      {{ range .Resources.ByType "image" }}
+      <img src="{{ .RelPermalink }}" alt="{{ .Name }}" style="height: 100%; width: 100%; object-fit: cover"
+        class="fade">
+      {{ end }}
+    </div>
+
+  </div>
+
 </main>
 {{ end }}
