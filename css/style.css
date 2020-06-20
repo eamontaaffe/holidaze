@@ -32,6 +32,7 @@ header {
 
 h1 {
     font-size: 18px;
+    color: red;
     font-weight: lighter;
     margin: 0;
 }
