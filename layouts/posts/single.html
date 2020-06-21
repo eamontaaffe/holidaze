@@ -3,7 +3,7 @@
 
   <h2>{{ index .Params.countries 0 }} : <br> {{ .Title }}</h2>
 
-  {{ range $index, $element := sort (.Resources.ByType "image") "Params.weight" }}
+  {{ range $index, $element := sort (where (.Resources.ByType "image") "Params.weight" ">=" 0) "Params.weight" }}
   <div class="post-gallery">
 
     <div class="post-image">

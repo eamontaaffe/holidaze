@@ -4,10 +4,10 @@
 
   <h2>Currently Viewing : <br>{{ .Name }}</h2>
 
-  <div class="post-gallery">
+  <div class="country-container">
     {{ range $page := .Pages }}
 
-    <div class="post-image">
+    <div class="country-item">
       {{ with (.Resources.ByType "image").GetMatch "*feature*" }}
       <img src="{{ .RelPermalink }}" style="height: 100%; width: 100%; object-fit: cover" class="fade">
 
