@@ -1,7 +1,6 @@
 1. photo index : thumbnails on hover
 
-2. single : hide "feature.jpg" on page
+2. photo index : organise "recent" and "previous"
 
-3. photo index : organise "recent" and "previous"
+3. fix mobile view
 
-4. single : order of images
