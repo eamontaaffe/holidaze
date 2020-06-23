@@ -6,7 +6,7 @@ countries:
 resources:
   - src: DSCF9844.jpg
     params: 
-      weight: 0
+      weight: 3
   - src: DSCF9833.jpg
     params: 
       weight: 1
@@ -15,7 +15,7 @@ resources:
       weight: 2
   - src: DSCF9855.jpg
     params: 
-      weight: 3
+      weight: 0
   - src: DSCF9862.jpg
     params: 
       weight: 4
