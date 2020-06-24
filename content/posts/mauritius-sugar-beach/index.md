@@ -1,5 +1,5 @@
 ---
-title: Suagr Beach
+title: Sugar Beach
 date: 2018-03-24
 countries:
   - Mauritius
