@@ -10,9 +10,6 @@ resources:
   - src: DSCF7177.jpg
     params: 
       weight: 1
-  - src: DSCF7404.jpg
-    params: 
-      weight: 2
   - src: DSCF6963.jpg
     params: 
       weight: 3
