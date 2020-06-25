@@ -6,10 +6,19 @@
     <description>Recent content in Japan on Holidays</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Fri, 26 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://holidaze.florenceltf.com/countries/japan/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Nara Deer Park</title>
+      <link>https://holidaze.florenceltf.com/posts/japan-nara/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://holidaze.florenceltf.com/posts/japan-nara/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hitachi Seaside Park, Tokyo</title>
