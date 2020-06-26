@@ -9,3 +9,5 @@
 5. add email link to information page
 
 6. single : link country to taxonomy page
+
+7. change link to holidays.florenceltf.com
