@@ -1,7 +1,7 @@
 {{ define "main" }}
 <main>
 
-  <h2>{{ index .Params.countries 0 }} : <br> {{ .Title }}</h2>
+  <h2><a href="/countries/{{ index .Params.countries 0 }}">{{ index .Params.countries 0 }}</a> : <br> {{ .Title }}</h2>
 
   {{ range $index, $element := sort (where (.Resources.ByType "image") "Params.weight" ">=" 0) "Params.weight" }}
   <div class="post-gallery">
