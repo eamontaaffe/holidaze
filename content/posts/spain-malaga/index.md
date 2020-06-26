@@ -1,40 +1,43 @@
 ---
-title: Beas De Granada, Andalusia
-date: 2018-04-19
+title: Malaga, Costa del Sol
+date: 2018-04-17
 countries:
   - Spain
 resources:
   - src: feature.jpg
     params: 
       weight: 0
-  - src: DSCF6921.jpg
+  - src: DSCF6762.jpg
     params: 
       weight: 1
-  - src: DSCF6922.jpg
+  - src: DSCF6770.jpg
     params: 
       weight: 2
-  - src: DSCF6927.jpg
+  - src: DSCF6771.jpg
     params: 
       weight: 3
-  - src: DSCF6936.jpg
+  - src: DSCF6759.jpg
     params: 
       weight: 4
-  - src: DSCF6929.jpg
+  - src: DSCF6837.jpg
     params: 
       weight: 5
-  - src: DSCF6945.jpg
+  - src: DSCF6832.jpg
     params: 
       weight: 6
-  - src: DSCF6961.jpg
+  - src: DSCF6839.jpg
     params: 
       weight: 7
-  - src: DSCF6973.jpg
+  - src: DSCF6840.jpg
     params: 
       weight: 8
-  - src: DSCF6974.jpg
+  - src: DSCF6841.jpg
     params: 
       weight: 9
-  - src: DSCF6980.jpg
+  - src: DSCF6847.jpg
     params: 
       weight: 10
+  - src: DSCF6849.jpg
+    params: 
+      weight: 11
 ---
