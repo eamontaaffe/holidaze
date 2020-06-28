@@ -4,10 +4,11 @@
 
 ## Tasks
 
-1. photo index : thumbnails on hover
+- [ ] photo index : thumbnails on hover
 
-2. photo index : organise "recent" and "previous"
+- [ ] show images once preloaded
 
-3. show images once preloaded
+- [ ] photo index : organise "recent" and "previous"
+    - Not sure if this is possible...
 
-4. change link to holidays.florenceltf.com
+- [ ] change link to holidays.florenceltf.com
