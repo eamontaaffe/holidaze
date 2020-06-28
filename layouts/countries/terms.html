@@ -1,14 +1,30 @@
 {{ define "main" }}
 
+{{ $terms := .Data.Terms.Alphabetical }}
+{{ $recentSize := 3 }}
+
 <main>
+
+  {{ .Data.Terms }}
+
   <h2>
     Recent :<br />
-    {{ $terms := .Data.Terms.Alphabetical }}
-    {{ range $index, $element := $terms }}
+    {{ range $index, $element := first $recentSize $terms }}
     <a href="{{ $element.Page.Permalink }}">
-      {{ $element.Page.Title }}<sup>({{ $element.Count }})</sup></a>{{ with (ne $index (sub (len $terms) 1)) }},
+      {{ $element.Page.Title }}<sup>({{ $element.Count }})</sup></a
+      >{{ with (ne $index (sub $recentSize 1)) }},{{ end }}
     {{ end }}
+
+    <br />
+    <br />
+
+    Previous :<br />
+    {{ range $index, $element := last (sub (len $terms) 3) $terms }}
+    <a href="{{ $element.Page.Permalink }}">
+      {{ $element.Page.Title }}<sup>({{ $element.Count }})</sup></a
+      >{{ with (ne $index (sub (len $terms) (add $recentSize 1))) }},{{ end }}
     {{ end }}
+
   </h2>
 </main>
 
