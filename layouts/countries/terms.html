@@ -5,7 +5,21 @@
 
 <main>
 
-  {{ .Data.Terms }}
+  <br />
+
+  {{ $termsWithDate := slice }}
+
+  {{ range .Data.Terms.TaxonomyArray }}
+
+  {{ (index .Pages 0).Date }}
+
+  {{ $termsWithDate | append dict "Date" (index .Pages.ByDate 0).Date }}
+
+  {{ end }}
+
+  {{ range sort $termsWithDate .Date }}
+  {{ . }} <br />
+  {{ end }}
 
   <h2>
     Recent :<br />
@@ -19,7 +33,7 @@
     <br />
 
     Previous :<br />
-    {{ range $index, $element := last (sub (len $terms) 3) $terms }}
+    {{ range $index, $element := after $recentSize $terms }}
     <a href="{{ $element.Page.Permalink }}">
       {{ $element.Page.Title }}<sup>({{ $element.Count }})</sup></a
       >{{ with (ne $index (sub (len $terms) (add $recentSize 1))) }},{{ end }}
