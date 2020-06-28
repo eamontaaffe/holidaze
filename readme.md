@@ -15,4 +15,4 @@
 
 - [x] disable or fix posts page
 
-- [ ] fix : issue with link to country in single.html when the country has two words
+- [x] fix : issue with link to country in single.html when the country has two words
