@@ -1,25 +1,9 @@
 {{ define "main" }}
 
-{{ $terms := .Data.Terms.Alphabetical }}
+{{ $terms := sort .Data.Terms.TaxonomyArray ".Page.Date" "desc" }}
 {{ $recentSize := 3 }}
 
 <main>
-
-  <br />
-
-  {{ $termsWithDate := slice }}
-
-  {{ range .Data.Terms.TaxonomyArray }}
-
-  {{ (index .Pages 0).Date }}
-
-  {{ $termsWithDate | append dict "Date" (index .Pages.ByDate 0).Date }}
-
-  {{ end }}
-
-  {{ range sort $termsWithDate .Date }}
-  {{ . }} <br />
-  {{ end }}
 
   <h2>
     Recent :<br />
