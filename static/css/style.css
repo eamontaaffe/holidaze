@@ -204,34 +204,34 @@ h2 a:hover {
 
 /* countries */
 
-.country-container {
+.list-container {
     display: grid;
     grid-gap: 20px;
     grid-template-columns: 1fr 1fr 1fr;
     padding: 0 20px 20px 20px;
 }
 
-.country-item {
-	position: relative;
+.list-item {
+	  position: relative;
     overflow: hidden;
-    }
+}
 
-.country-item .overlay {
-	opacity: 0;
-	position: absolute;
-	top: 0;
-	left: 0;
-	right: 0;
-	bottom: 0;
+.list-item .overlay {
+	  opacity: 0;
+	  position: absolute;
+	  top: 0;
+	  left: 0;
+	  right: 0;
+	  bottom: 0;
     background-color: white;
     border: 1px solid black;
-	color: black;
+	  color: black;
     padding: 20px;
 }
 
-.country-item:hover .overlay,
-.country-item.active {
-	opacity: 1;
+.list-item:hover .overlay,
+.list-item.active {
+	  opacity: 1;
 }
 
 .overlay {
@@ -259,11 +259,7 @@ h2 a:hover {
     align-self: flex-end;
     width: 50%;
     text-align: right;
-    margin-left: 20px;  
-}
-
-.country-image {
-    margin-left: 0px;
+    margin-left: 20px;
 }
 
 .arrow {
@@ -285,7 +281,7 @@ h2 a:hover {
         margin-left: 0px;
         margin-bottom: 20px;
     }
-    
+
     .post-counter {
         display: none;
     }

@@ -2,12 +2,12 @@
 
 <main>
 
-  <h2>Currently Viewing : <br>{{ .Name }}</h2>
+  <h2>Currently Viewing : <br>{{ .Title }}</h2>
 
-  <div class="country-container">
+  <div class="list-container">
     {{ range $page := .Pages }}
 
-    <div class="country-item">
+    <div class="list-item">
       {{ with (.Resources.ByType "image").GetMatch "*feature*" }}
       <img src="{{ .RelPermalink }}" style="height: 100%; width: 100%; object-fit: cover" class="fade">
 
