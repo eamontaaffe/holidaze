@@ -8,7 +8,7 @@
 
 - [ ] show images once preloaded
 
-- [ ] ~~photo index : organise "recent" and "previous"~~ not sure if this is (easily) possible...
+- [x] photo index : organise "recent" and "previous"
 
 - [ ] change link to holidays.florenceltf.com
 
