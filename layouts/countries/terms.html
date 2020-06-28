@@ -2,7 +2,6 @@
 
 <main>
   <h2>
-    Recent :<br />
     {{ $terms := .Data.Terms.Alphabetical }}
     {{ range $index, $element := $terms }}
     <a href="{{ $element.Page.Permalink }}">
