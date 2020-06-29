@@ -6,10 +6,19 @@
     <description>Recent content on Holidays</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://holidaze.florenceltf.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Gilli Islands &amp; Nusa Lembongan</title>
+      <link>https://holidaze.florenceltf.com/posts/indonesia/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://holidaze.florenceltf.com/posts/indonesia/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Queenstown, South Island</title>
@@ -282,6 +291,15 @@
     </item>
     
     <item>
+      <title>Lauterbrunnen</title>
+      <link>https://holidaze.florenceltf.com/posts/switzerland-lauterbrunnen/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://holidaze.florenceltf.com/posts/switzerland-lauterbrunnen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Lausanne</title>
       <link>https://holidaze.florenceltf.com/posts/switzerland-lausanne/</link>
       <pubDate>Fri, 06 Apr 2018 00:00:00 +0000</pubDate>
@@ -431,15 +449,6 @@
       <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://holidaze.florenceltf.com/posts/hong-kong-island/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gilli Islands &amp; Nusa Lembongan</title>
-      <link>https://holidaze.florenceltf.com/posts/indonesia/</link>
-      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://holidaze.florenceltf.com/posts/indonesia/</guid>
       <description></description>
     </item>
     
