@@ -1,6 +1,6 @@
 ---
 title: Gilli Islands & Nusa Lembongan
-date: 2017-12-15
+date: 2019-12-15
 countries:
   - Indonesia
 resources:
