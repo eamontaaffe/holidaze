@@ -1,5 +1,5 @@
 ---
-title: Cordoba, Andalusia
+title: Cordoba, Andalusia, Spain
 date: 2018-04-23
 countries:
   - Spain

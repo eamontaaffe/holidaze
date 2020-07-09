@@ -1,5 +1,5 @@
 ---
-title: Jaipur, Rajasthan
+title: Jaipur, Rajasthan, India
 date: 2018-03-06
 countries:
   - India

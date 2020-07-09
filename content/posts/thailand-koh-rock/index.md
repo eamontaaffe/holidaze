@@ -1,5 +1,5 @@
 ---
-title: Koh Rock & Koh Ha
+title: Koh Rock & Koh Ha, Thailand
 date: 2018-01-25
 countries:
   - Thailand

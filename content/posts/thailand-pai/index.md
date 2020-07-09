@@ -1,5 +1,5 @@
 ---
-title: Pai
+title: Pai, Thailand
 date: 2018-02-02
 countries:
   - Thailand

@@ -1,5 +1,5 @@
 ---
-title: Queenstown, South Island
+title: Queenstown, South Island, New Zealand
 date: 2019-11-11
 countries:
   - New Zealand

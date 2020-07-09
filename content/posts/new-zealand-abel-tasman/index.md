@@ -1,5 +1,5 @@
 ---
-title: Abel Tasman National Park, South Island
+title: Abel Tasman National Park, South Island, New Zealand
 date: 2019-11-03
 countries:
   - New Zealand

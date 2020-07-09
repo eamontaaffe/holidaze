@@ -1,5 +1,5 @@
 ---
-title: Udaipur, Rajasthan
+title: Udaipur, Rajasthan, India
 date: 2018-02-28
 countries:
   - India

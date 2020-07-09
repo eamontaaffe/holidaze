@@ -1,5 +1,5 @@
 ---
-title: Mt Inwasang, Seoul
+title: Mt Inwasang, Seoul, South Korea
 date: 2018-10-05
 countries:
   - South Korea

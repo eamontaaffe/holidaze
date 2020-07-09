@@ -1,5 +1,5 @@
 ---
-title: Jaisalmer, Rajasthan
+title: Jaisalmer, Rajasthan, India
 date: 2018-03-05
 countries:
   - India

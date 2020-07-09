@@ -1,5 +1,5 @@
 ---
-title: Udawalawe
+title: Udawalawe, Sri Lanka
 date: 2018-02-18
 countries:
   - Sri Lanka

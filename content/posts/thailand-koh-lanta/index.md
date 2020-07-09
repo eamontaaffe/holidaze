@@ -1,5 +1,5 @@
 ---
-title: Koh Lanta
+title: Koh Lanta, Thailand
 date: 2018-01-23
 countries:
   - Thailand

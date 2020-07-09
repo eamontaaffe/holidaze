@@ -1,5 +1,5 @@
 ---
-title: Krabi
+title: Krabi, Thailand
 date: 2018-01-27
 countries:
   - Thailand

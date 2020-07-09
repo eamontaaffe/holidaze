@@ -1,5 +1,5 @@
 ---
-title: Freycinet National Park & Bruny Island, Tasmania
+title: Freycinet National Park & Bruny Island, Tasmania, Australia
 date: 2019-04-24
 countries:
   - Australia

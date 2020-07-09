@@ -1,5 +1,5 @@
 ---
-title: Agra, Rajasthan
+title: Agra, Rajasthan, India
 date: 2018-03-09
 countries:
   - India

@@ -1,5 +1,5 @@
 ---
-title: Niseko, Hokkaido
+title: Niseko, Hokkaido, Japan
 date: 2018-10-15
 countries:
   - Japan

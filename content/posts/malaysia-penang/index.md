@@ -1,5 +1,5 @@
 ---
-title: Penang
+title: Penang, Malaysia
 date: 2018-10-30
 countries:
   - Malaysia

@@ -1,5 +1,5 @@
 ---
-title: Hobart CBD, Tasmania
+title: Hobart CBD, Tasmania, Australia
 date: 2019-04-19
 countries:
   - Australia

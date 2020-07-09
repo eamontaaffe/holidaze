@@ -1,5 +1,5 @@
 ---
-title: Hong Kong Island
+title: Hong Kong Island, Hong Kong
 date: 2017-12-23
 countries:
   - Hong Kong

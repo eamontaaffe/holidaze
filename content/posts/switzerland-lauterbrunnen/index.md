@@ -1,5 +1,5 @@
 ---
-title: Lauterbrunnen
+title: Lauterbrunnen, Switzerland
 date: 2018-04-12
 countries:
   - Switzerland

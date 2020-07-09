@@ -1,5 +1,5 @@
 ---
-title: Jaisalmer Camel Safari, Rajasthan
+title: Jaisalmer Camel Safari, Rajasthan, India
 date: 2018-03-04
 countries:
   - India

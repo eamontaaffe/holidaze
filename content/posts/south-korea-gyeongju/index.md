@@ -1,5 +1,5 @@
 ---
-title: Busan
+title: Busan, South Korea
 date: 2018-09-27
 countries:
   - South Korea

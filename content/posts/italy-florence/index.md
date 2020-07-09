@@ -1,5 +1,5 @@
 ---
-title: Florence
+title: Florence, Italy
 date: 2018-05-11
 countries:
   - Italy

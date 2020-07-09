@@ -1,5 +1,5 @@
 ---
-title: Daisetsuzan National Park, Hokkaido
+title: Daisetsuzan National Park, Hokkaido, Japan
 date: 2018-10-19
 countries:
   - Japan

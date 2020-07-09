@@ -1,5 +1,5 @@
 ---
-title: Granada, Andalusia
+title: Granada, Andalusia, Spain
 date: 2018-04-20
 countries:
   - Spain

@@ -1,5 +1,5 @@
 ---
-title: Caumasee
+title: Caumasee, Switzerland
 date: 2018-04-15
 countries:
   - Switzerland

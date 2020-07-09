@@ -1,5 +1,5 @@
 ---
-title: Miscellaneous
+title: Miscellaneous, Singapore
 date: 2018-01-09
 countries:
   - Singapore

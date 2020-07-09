@@ -1,5 +1,5 @@
 ---
-title: Sagres, Algarve
+title: Sagres, Algarve, Portugal
 date: 2018-06-11
 countries:
   - Portugal

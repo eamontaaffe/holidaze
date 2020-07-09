@@ -1,5 +1,5 @@
 ---
-title: Kowloon
+title: Kowloon, Hong Kong
 date: 2017-12-15
 countries:
   - Hong Kong

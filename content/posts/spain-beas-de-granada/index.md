@@ -1,5 +1,5 @@
 ---
-title: Beas De Granada, Andalusia
+title: Beas De Granada, Andalusia, Spain
 date: 2018-04-19
 countries:
   - Spain

@@ -1,5 +1,5 @@
 ---
-title: Lamma Island
+title: Lamma Island, Hong Kong
 date: 2017-12-27
 countries:
   - Hong Kong

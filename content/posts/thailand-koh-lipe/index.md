@@ -1,5 +1,5 @@
 ---
-title: Koh Lipe
+title: Koh Lipe, Thailand
 date: 2018-01-18
 countries:
   - Thailand

@@ -1,5 +1,5 @@
 ---
-title: Hitachi Seaside Park, Tokyo
+title: Hitachi Seaside Park, Tokyo, Japan
 date: 2018-10-26
 countries:
   - Japan

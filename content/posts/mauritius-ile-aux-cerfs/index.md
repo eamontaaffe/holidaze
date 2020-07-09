@@ -1,5 +1,5 @@
 ---
-title: Ile Aux Cerfs
+title: Ile Aux Cerfs, Mauritius
 date: 2018-03-14
 countries:
   - Mauritius

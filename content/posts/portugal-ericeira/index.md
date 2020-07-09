@@ -1,5 +1,5 @@
 ---
-title: Ericeira, Algarve
+title: Ericeira, Algarve, Portugal
 date: 2018-06-09
 countries:
   - Portugal

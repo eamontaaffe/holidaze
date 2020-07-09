@@ -1,5 +1,5 @@
 ---
-title: Jodhpur, Rajasthan
+title: Jodhpur, Rajasthan, India
 date: 2018-03-03
 countries:
   - India

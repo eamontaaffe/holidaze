@@ -1,5 +1,5 @@
 ---
-title: Miscellaneous
+title: Miscellaneous, Mauritius
 date: 2018-03-09
 countries:
   - Mauritius

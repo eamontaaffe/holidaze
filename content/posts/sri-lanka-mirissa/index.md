@@ -1,5 +1,5 @@
 ---
-title: Mirissa
+title: Mirissa, Sri Lanka
 date: 2018-02-21
 countries:
   - Sri Lanka

@@ -1,5 +1,5 @@
 ---
-title: Lausanne
+title: Lausanne, Switzerland
 date: 2018-04-06
 countries:
   - Switzerland

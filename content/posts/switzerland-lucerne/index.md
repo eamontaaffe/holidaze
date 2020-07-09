@@ -1,5 +1,5 @@
 ---
-title: Mt Pilatus, Lucerne
+title: Mt Pilatus, Lucerne, Switzerland
 date: 2018-04-02
 countries:
   - Switzerland

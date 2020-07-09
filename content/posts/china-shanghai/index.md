@@ -1,5 +1,5 @@
 ---
-title: Shanghai
+title: Shanghai, China
 date: 2018-09-17
 countries:
   - China

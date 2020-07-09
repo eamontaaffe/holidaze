@@ -1,5 +1,5 @@
 ---
-title: Malaga, Costa del Sol
+title: Malaga, Costa del Sol, Spain
 date: 2018-04-17
 countries:
   - Spain

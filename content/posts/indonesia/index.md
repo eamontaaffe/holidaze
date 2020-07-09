@@ -1,5 +1,5 @@
 ---
-title: Gilli Islands & Nusa Lembongan
+title: Gilli Islands & Nusa Lembongan, Indonesia
 date: 2019-12-15
 countries:
   - Indonesia

@@ -1,5 +1,5 @@
 ---
-title: Gibraltar
+title: Gibraltar, United Kingdom
 date: 2018-04-28
 countries:
   - United Kingdom

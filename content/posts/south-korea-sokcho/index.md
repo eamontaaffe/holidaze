@@ -1,5 +1,5 @@
 ---
-title: Sokcho
+title: Sokcho, South Korea
 date: 2018-09-26
 countries:
   - South Korea

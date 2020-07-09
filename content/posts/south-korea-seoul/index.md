@@ -1,5 +1,5 @@
 ---
-title: Seoul
+title: Seoul, South Korea
 date: 2018-10-06
 countries:
   - South Korea
