@@ -1,3 +1,3 @@
 ---
-url: /photo-index/
+url: /travels/
 ---
