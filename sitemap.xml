@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://holidaze.florenceltf.com/photo-index/</loc>
+    <loc>https://holidaze.florenceltf.com/travels/</loc>
+    <lastmod>2019-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://holidaze.florenceltf.com/index/</loc>
     <lastmod>2019-12-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -19,11 +24,6 @@
   
   <url>
     <loc>https://holidaze.florenceltf.com/countries/indonesia/</loc>
-    <lastmod>2019-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://holidaze.florenceltf.com/posts/</loc>
     <lastmod>2019-12-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -70,6 +70,11 @@
   <url>
     <loc>https://holidaze.florenceltf.com/countries/vietnam/</loc>
     <lastmod>2018-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://holidaze.florenceltf.com/posts/vietnam-sapa/</loc>
+    <lastmod>2018-11-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -333,13 +338,33 @@
   </url>
   
   <url>
+    <loc>https://holidaze.florenceltf.com/posts/thailand-pai/</loc>
+    <lastmod>2018-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://holidaze.florenceltf.com/countries/thailand/</loc>
+    <lastmod>2018-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://holidaze.florenceltf.com/posts/thailand-krabi/</loc>
+    <lastmod>2018-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://holidaze.florenceltf.com/posts/thailand-koh-rock/</loc>
     <lastmod>2018-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://holidaze.florenceltf.com/countries/thailand/</loc>
-    <lastmod>2018-01-25T00:00:00+00:00</lastmod>
+    <loc>https://holidaze.florenceltf.com/posts/thailand-koh-lanta/</loc>
+    <lastmod>2018-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://holidaze.florenceltf.com/posts/thailand-koh-lipe/</loc>
+    <lastmod>2018-01-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>

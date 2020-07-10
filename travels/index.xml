@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Holidays</title>
-    <link>https://holidaze.florenceltf.com/photo-index/</link>
+    <link>https://holidaze.florenceltf.com/travels/</link>
     <description>Recent content on Holidays</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
     <lastBuildDate>Sun, 15 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://holidaze.florenceltf.com/photo-index/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://holidaze.florenceltf.com/travels/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -158,7 +158,7 @@
     <item>
       <title>Thailand</title>
       <link>https://holidaze.florenceltf.com/countries/thailand/</link>
-      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://holidaze.florenceltf.com/countries/thailand/</guid>
       <description></description>
