@@ -3,6 +3,10 @@
     src: url("/font/Patron-Light.ttf") format("opentype");
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     height:100vh;
     width: 100vw;
@@ -237,6 +241,11 @@ h2 a:hover {
 .overlay {
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
+}
+
+.data {
+    display: flex;
     justify-content: space-between;
 }
 
