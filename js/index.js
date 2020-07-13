@@ -6,7 +6,7 @@ var cursor = document.getElementById("cursor");
 
 function show(items, n) {
     for (var i = 0; i < items.length; i++) {
-        if(i == n - 1) {
+        if (i == n - 1) {
             items[i].style.display = "block";
         } else {
             items[i].style.display = "none";
