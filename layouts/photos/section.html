@@ -1,0 +1,30 @@
+{{ define "main" }}
+
+<main>
+
+  <h2>Currently Viewing : <br>{{ .Title }}</h2>
+
+  <div class="list-container">
+    {{ range $page := .Pages }}
+
+    <div class="list-item">
+      {{ with (.Resources.ByType "image").GetMatch "*feature*" }}
+      <img src="{{ .RelPermalink }}" style="height: 100%; width: 100%; object-fit: cover" class="fade">
+
+      <a href="{{ $page.Permalink }}">
+        <div class="overlay">
+          <div class="caption">{{ $page.Title }}</div>
+          <div class="data">
+            <div class="date">{{ $page.Date.Format "02 . 01 . 2006" }}</div>
+            <div class="count">{{ len (where ($page.Resources.ByType "image") "Params.weight" ">=" 0)}} Images</div>
+          </div>
+        </div>
+      </a>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+
+</main>
+
+{{ end }}
