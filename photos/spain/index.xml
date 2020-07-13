@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spain on Holidays</title>
+    <link>https://holidaze.florenceltf.com/photos/spain/</link>
+    <description>Recent content in Spain on Holidays</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <lastBuildDate>Wed, 02 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://holidaze.florenceltf.com/photos/spain/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ronda, Spain</title>
+      <link>https://holidaze.florenceltf.com/photos/spain/ronda/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://holidaze.florenceltf.com/photos/spain/ronda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cordoba, Andalusia, Spain</title>
+      <link>https://holidaze.florenceltf.com/photos/spain/cordoba/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://holidaze.florenceltf.com/photos/spain/cordoba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Granada, Andalusia, Spain</title>
+      <link>https://holidaze.florenceltf.com/photos/spain/granada/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://holidaze.florenceltf.com/photos/spain/granada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beas De Granada, Andalusia, Spain</title>
+      <link>https://holidaze.florenceltf.com/photos/spain/beas-de-granada/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://holidaze.florenceltf.com/photos/spain/beas-de-granada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malaga, Costa del Sol, Spain</title>
+      <link>https://holidaze.florenceltf.com/photos/spain/malaga/</link>
+      <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://holidaze.florenceltf.com/photos/spain/malaga/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

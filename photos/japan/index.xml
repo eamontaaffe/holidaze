@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Japan on Holidays</title>
+    <link>https://holidaze.florenceltf.com/photos/japan/</link>
+    <description>Recent content in Japan on Holidays</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://holidaze.florenceltf.com/photos/japan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nara Deer Park, Japan</title>
+      <link>https://holidaze.florenceltf.com/photos/japan/nara/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://holidaze.florenceltf.com/photos/japan/nara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hitachi Seaside Park, Tokyo, Japan</title>
+      <link>https://holidaze.florenceltf.com/photos/japan/hitachi/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://holidaze.florenceltf.com/photos/japan/hitachi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daisetsuzan National Park, Hokkaido, Japan</title>
+      <link>https://holidaze.florenceltf.com/photos/japan/daisetsuzan/</link>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://holidaze.florenceltf.com/photos/japan/daisetsuzan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Niseko, Hokkaido, Japan</title>
+      <link>https://holidaze.florenceltf.com/photos/japan/niseko/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://holidaze.florenceltf.com/photos/japan/niseko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miscellaneous Japan, 2017</title>
+      <link>https://holidaze.florenceltf.com/photos/japan/2017/</link>
+      <pubDate>Sat, 25 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://holidaze.florenceltf.com/photos/japan/2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

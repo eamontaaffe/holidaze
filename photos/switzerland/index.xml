@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Switzerland on Holidays</title>
+    <link>https://holidaze.florenceltf.com/photos/switzerland/</link>
+    <description>Recent content in Switzerland on Holidays</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <lastBuildDate>Sun, 15 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://holidaze.florenceltf.com/photos/switzerland/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Caumasee, Switzerland</title>
+      <link>https://holidaze.florenceltf.com/photos/switzerland/caumasee/</link>
+      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://holidaze.florenceltf.com/photos/switzerland/caumasee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lauterbrunnen, Switzerland</title>
+      <link>https://holidaze.florenceltf.com/photos/switzerland/lauterbrunnen/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://holidaze.florenceltf.com/photos/switzerland/lauterbrunnen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lausanne, Switzerland</title>
+      <link>https://holidaze.florenceltf.com/photos/switzerland/lausanne/</link>
+      <pubDate>Fri, 06 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://holidaze.florenceltf.com/photos/switzerland/lausanne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mt Pilatus, Lucerne, Switzerland</title>
+      <link>https://holidaze.florenceltf.com/photos/switzerland/lucerne/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://holidaze.florenceltf.com/photos/switzerland/lucerne/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

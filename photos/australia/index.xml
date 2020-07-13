@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Australia on Holidays</title>
+    <link>https://holidaze.florenceltf.com/photos/australia/</link>
+    <description>Recent content in Australia on Holidays</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <lastBuildDate>Wed, 24 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://holidaze.florenceltf.com/photos/australia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Freycinet National Park &amp; Bruny Island, Tasmania, Australia</title>
+      <link>https://holidaze.florenceltf.com/photos/australia/tasmania/</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://holidaze.florenceltf.com/photos/australia/tasmania/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Island, Tasmania, Australia</title>
+      <link>https://holidaze.florenceltf.com/photos/australia/maria-island/</link>
+      <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://holidaze.florenceltf.com/photos/australia/maria-island/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hobart CBD, Tasmania, Australia</title>
+      <link>https://holidaze.florenceltf.com/photos/australia/hobart/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://holidaze.florenceltf.com/photos/australia/hobart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mt Feathertop, Victoria, Australia</title>
+      <link>https://holidaze.florenceltf.com/photos/australia/mt-feathertop/</link>
+      <pubDate>Sun, 16 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://holidaze.florenceltf.com/photos/australia/mt-feathertop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grampians, Victoria, Australia</title>
+      <link>https://holidaze.florenceltf.com/photos/australia/grampians/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://holidaze.florenceltf.com/photos/australia/grampians/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

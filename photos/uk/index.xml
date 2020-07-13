@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>United Kingdom on Holidays</title>
+    <link>https://holidaze.florenceltf.com/photos/uk/</link>
+    <description>Recent content in United Kingdom on Holidays</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <lastBuildDate>Sat, 28 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://holidaze.florenceltf.com/photos/uk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gibraltar, United Kingdom</title>
+      <link>https://holidaze.florenceltf.com/photos/uk/gibraltar/</link>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://holidaze.florenceltf.com/photos/uk/gibraltar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

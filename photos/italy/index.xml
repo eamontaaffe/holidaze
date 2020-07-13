@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Italy on Holidays</title>
+    <link>https://holidaze.florenceltf.com/photos/italy/</link>
+    <description>Recent content in Italy on Holidays</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <lastBuildDate>Mon, 14 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://holidaze.florenceltf.com/photos/italy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Positano, Amalfi Coast, Italy</title>
+      <link>https://holidaze.florenceltf.com/photos/italy/positano/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://holidaze.florenceltf.com/photos/italy/positano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Florence, Italy</title>
+      <link>https://holidaze.florenceltf.com/photos/italy/florence/</link>
+      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://holidaze.florenceltf.com/photos/italy/florence/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
