@@ -1,0 +1,31 @@
+{{ define "main" }}
+
+{{ $recentSize := 3 }}
+{{ $totalPages := len .Pages }}
+{{ $totalPrevious := sub $totalPages $recentSize }}
+
+<main>
+
+  <h2>
+    Recent :<br />
+    {{ range $index, $element := first $recentSize .Pages }}
+    <a href="{{ $element.Page.Permalink }}">
+      {{ $element.Page.Title }}<sup>({{ len $element.Pages }})</sup></a
+      >{{ with (ne $index (sub $recentSize 1)) }},{{ end }}
+    {{ end }}
+
+    <br />
+    <br />
+
+    Previous :<br />
+    {{ range $index, $element := after $recentSize .Pages }}
+    <a href="{{ $element.Page.Permalink }}">
+      {{ $element.Page.Title }}<sup>({{ len $element.Pages }})</sup></a
+      >{{ with (ne (add $index 1) $totalPrevious) }},{{ end }}
+    {{ end }}
+
+  </h2>
+
+</main>
+
+{{ end }}

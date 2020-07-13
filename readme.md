@@ -12,4 +12,4 @@
 
 - [ ] index : change 'currently viewing' to 'index'
 
-- [ ] posts should be a subset of countries /country/australia/hobart/
+- [x] posts should be a subset of countries /country/australia/hobart/
