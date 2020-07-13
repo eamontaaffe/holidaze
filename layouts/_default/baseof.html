@@ -13,23 +13,34 @@
   <link rel="icon" href="{{ "img/favicon.png" | relURL }}" type="image/png" sizes="16x16">
 </head>
 
-<body>
-  {{ block "header" . }}
-  <header>
-    <div class="title">
-      <a href="/">
-        <h1>{{ .Site.Title }}</h1>
-      </a>
-      <span>:</span>
-      <marquee>{{ .Site.Params.Status }}</marquee>
-    </div>
-    <nav>
-      <a href="/photos">Photos</a>, <a href="/information">Information</a>, <a
-        href="mailto: theflomon@gmail.com">Email</a> </nav>
-  </header>
-  {{ end }}
+<body data-barba="wrapper">
+  <div data-barba="container">
+    {{ block "header" . }}
+    <header>
+      <div class="title">
+        <a href="/">
+          <h1>{{ .Site.Title }}</h1>
+        </a>
+        <span>:</span>
+        <marquee>{{ .Site.Params.Status }}</marquee>
+      </div>
+      <nav>
+        <a id="link" href="/photos/">Photos</a>, <a id="link" href="/information/">Information</a>,
+        <a href="mailto: theflomon@gmail.com">Contact</a>
+      </nav>
+    </header>
+    {{ end }}
 
-  {{ block "main" . }}{{ end }}
+    {{ block "main" . }}{{ end }}
+
+  </div>
+
+  <script src="{{ "js/barba.js" | relURL }}"></script>
+  <script src="{{ "js/barba-css.js" | relURL }}"></script>
+  <script src="{{ "js/scripts.js" | relURL }}"></script>
+  <script src="{{ "js/index.js" | relURL }}"></script>
+
+
 </body>
 
 </html>

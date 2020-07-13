@@ -9,15 +9,15 @@
     <marquee>{{ .Site.Params.Status }}</marquee>
   </div>
   <nav>
-    <a href="/photos">Photos</a>, <a href="/information">Information</a>, <a
-      href="mailto: theflomon@gmail.com">Email</a>
+    <a id="link" href="/photos/">Photos</a>, <a id="link" href="/information/">Information</a>,
+    <a href="mailto: theflomon@gmail.com">Contact</a>
   </nav>
 </header>
 
 {{ end }}
 
 {{ define "main" }}
-<main class="information-container fade-fast">
+<main class="information-container">
   <h3>
     {{ .Content }}
   </h3>
