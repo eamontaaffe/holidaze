@@ -2,6 +2,10 @@
 
 © All images are copyright by Florence Li Ting Fong and Eamon Taaffe.
 
+## Build status
+
+![Hugo Workflow](https://github.com/eamontaaffe/holidaze/workflows/Hugo%20Workflow/badge.svg)
+
 ## Tasks
 
 - [ ] travels : thumbnails on hover
