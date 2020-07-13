@@ -121,6 +121,33 @@ main {
     animation-duration: .5s;
 }
 
+.fade-page {
+    -webkit-animation-name: fadepage;
+    -webkit-animation-duration: 1.5s;
+    animation-name: fadepage;
+    animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fadepage {
+    from {
+        opacity: 0
+    }
+
+    to {
+        opacity: 1
+    }
+}
+
+@keyframes fadepage {
+    from {
+        opacity: 0
+    }
+
+    to {
+        opacity: 1
+    }
+}
+
 @-webkit-keyframes fade {
     from {
         opacity: .4
