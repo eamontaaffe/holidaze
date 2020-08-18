@@ -362,3 +362,14 @@ h2 a:hover {
     text-align: center;
     width: 150px;
 }
+
+#country-list{
+    position: relative;
+}
+
+#cursor-image{
+    position: absolute;
+    width: 200px;
+    height: 150px;
+    background: red;
+}
