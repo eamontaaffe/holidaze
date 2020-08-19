@@ -316,6 +316,31 @@ h2 a:hover {
     border-bottom: 1px solid black;
 }
 
+#cursor {
+    display: none;
+    position: absolute;
+    color: white;
+    /* transition: transform .4s; */
+    text-align: center;
+    width: 150px;
+}
+
+#country-list{
+    position: relative;
+}
+
+#cursor-image {
+    width: 250px;
+    position: absolute;
+    /* transition: transform .4s; */
+}
+
+#cursor-image img {
+    position: absolute;
+    display: none;
+    width: 100%;
+}
+
 /* mobile */
 
 @media (max-width: 767px) {
@@ -344,6 +369,10 @@ h2 a:hover {
         grid-template-columns: 1fr; 
     }
 
+    .top {
+        margin-bottom: 40px;
+        }
+
   }
 
   @media (max-width: 550px) {
@@ -353,27 +382,4 @@ h2 a:hover {
     }
 
   }
-#cursor {
-    display: none;
-    position: absolute;
-    color: white;
-    /* transition: transform .4s; */
-    text-align: center;
-    width: 150px;
-}
 
-#country-list{
-    position: relative;
-}
-
-#cursor-image {
-    width: 250px;
-    position: absolute;
-    /* transition: transform .4s; */
-}
-
-#cursor-image img {
-    position: absolute;
-    display: none;
-    width: 100%;
-}
