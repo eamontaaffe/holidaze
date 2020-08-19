@@ -366,10 +366,12 @@ h2 a:hover {
     position: relative;
 }
 
-#cursor-image{
+#cursor-image {
     position: absolute;
-    width: 200px;
-    height: 150px;
-    background: red;
+    transition: transform .4s;
+}
+
+#cursor-image img {
+    position: absolute;
     display: none;
 }
