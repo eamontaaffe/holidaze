@@ -381,5 +381,9 @@ h2 a:hover {
         display: none;
     }
 
+    .top {
+        margin-bottom: 40px;
+        }
+        
   }
 
