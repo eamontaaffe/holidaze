@@ -28,9 +28,9 @@
 
 <div id="cursor-image">
   {{ range $element := .Pages }}
-    {{ with (((index $element.Pages 0).Resources.GetMatch "*feature*").Resize "250x") }}
-      <img data-country="{{ $element.File.UniqueID }}" src="{{ .RelPermalink }}">
-    {{ end }}
+  {{ with (((index $element.Pages 0).Resources.GetMatch "*feature*").Resize "500x q80") }}
+  <img data-country="{{ $element.File.UniqueID }}" src="{{ .RelPermalink }}">
+  {{ end }}
   {{ end }}
 </div>
 

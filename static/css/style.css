@@ -367,6 +367,7 @@ h2 a:hover {
 }
 
 #cursor-image {
+    width: 250px;
     position: absolute;
     /* transition: transform .4s; */
 }
@@ -374,4 +375,5 @@ h2 a:hover {
 #cursor-image img {
     position: absolute;
     display: none;
+    width: 100%;
 }
