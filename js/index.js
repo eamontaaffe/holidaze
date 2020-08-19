@@ -3,6 +3,8 @@ var slides = document.getElementsByClassName("slide");
 var cursorTexts = document.getElementsByClassName("cursor-text");
 var slideshowContainer = document.getElementById("slideshow-container");
 var cursor = document.getElementById("cursor");
+var cursorImage = document.getElementById("cursor-image");
+var countryList = document.getElementById("country-list");
 
 function show(items, n) {
     for (var i = 0; i < items.length; i++) {
@@ -42,3 +44,4 @@ slideshowContainer.addEventListener('mouseleave', function (event) {
 
 show(slides, slideIndex);
 show(cursorTexts, slideIndex);
+
