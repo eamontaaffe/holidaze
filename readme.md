@@ -18,4 +18,3 @@
 
 - [x] posts should be a subset of countries /country/australia/hobart/
 
-- [ ] add tick next to active page in header

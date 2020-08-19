@@ -4,12 +4,12 @@
 {{ $totalPages := len .Pages }}
 {{ $totalPrevious := sub $totalPages $recentSize }}
 
-<main class="fade-page">
+<main class="fade-page" id="country-list">
 
   <h2>
     Recent :<br />
     {{ range $index, $element := first $recentSize .Pages }}
-    <a href="{{ $element.Page.Permalink }}">
+    <a data-country="{{ $element.File.UniqueID }}" href="{{ $element.Page.Permalink }}" class="country">
       {{ $element.Page.Title }}<sup>({{ len $element.Pages }})</sup></a>{{ with (ne $index (sub $recentSize 1)) }},{{ end }}
     {{ end }}
 
@@ -18,12 +18,22 @@
 
     Previous :<br />
     {{ range $index, $element := after $recentSize .Pages }}
-    <a href="{{ $element.Page.Permalink }}">
+    <a data-country="{{ $element.File.UniqueID }}" href="{{ $element.Page.Permalink }}" class="country">
       {{ $element.Page.Title }}<sup>({{ len $element.Pages }})</sup></a>{{ with (ne (add $index 1) $totalPrevious) }},{{ end }}
     {{ end }}
 
   </h2>
 
 </main>
+
+<div id="cursor-image">
+  {{ range $element := .Pages }}
+    {{ with (((index $element.Pages 0).Resources.GetMatch "*feature*").Resize "250x") }}
+      <img data-country="{{ $element.File.UniqueID }}" src="{{ .RelPermalink }}">
+    {{ end }}
+  {{ end }}
+</div>
+
+<script src="{{ "js/section.js" | relURL }}"></script>
 
 {{ end }}

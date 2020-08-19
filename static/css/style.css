@@ -16,7 +16,6 @@ body {
     margin: 0;
     padding: 0;
     font-family: "Patron", -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
-    font-weight: lighter;
     font-size: 18px;
     opacity: 1;
 }
@@ -361,4 +360,18 @@ h2 a:hover {
     transition: transform .4s;
     text-align: center;
     width: 150px;
+}
+
+#country-list{
+    position: relative;
+}
+
+#cursor-image {
+    position: absolute;
+    transition: transform .4s;
+}
+
+#cursor-image img {
+    position: absolute;
+    display: none;
 }
