@@ -357,7 +357,7 @@ h2 a:hover {
     display: none;
     position: absolute;
     color: white;
-    transition: transform .4s;
+    /* transition: transform .4s; */
     text-align: center;
     width: 150px;
 }
@@ -368,7 +368,7 @@ h2 a:hover {
 
 #cursor-image {
     position: absolute;
-    transition: transform .4s;
+    /* transition: transform .4s; */
 }
 
 #cursor-image img {
