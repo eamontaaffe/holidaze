@@ -17,7 +17,7 @@ function show(items, n) {
 }
 
 slideshowContainer.addEventListener('click', function () {
-    if ((slideIndex + 1) >= slides.length) {
+    if ((slideIndex + 1) >= (slides.length + 1)) {
         slideIndex = 1;
     } else {
         slideIndex = slideIndex + 1;
