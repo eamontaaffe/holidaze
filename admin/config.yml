@@ -1,6 +1,9 @@
 backend:
   name: github
   repo: eamontaaffe/holidaze
+  api_root: https://api.github.com
+  base_url: https://api.netlify.com
+  auth_endpoint: auth
 
 # XXXX: You can enable this to NOT save directly to master
 # publish_mode: editorial_workflow
