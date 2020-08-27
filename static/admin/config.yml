@@ -1,0 +1,24 @@
+backend:
+  name: github
+  repo: eamontaaffe/holidaze
+
+# XXXX: You can enable this to NOT save directly to master
+# publish_mode: editorial_workflow
+
+media_folder: static/images/uploads
+public_folder: /images/uploads
+
+collections:
+  - label: Pages
+    name: pages
+    files:
+      - label: Information
+        name: information
+        file: content/information/index.md
+        fields:
+          - label: Title
+            name: title
+            widget: string
+          - label: Body
+            name: body
+            widget: markdown
