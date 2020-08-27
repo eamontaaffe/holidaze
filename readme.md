@@ -8,13 +8,12 @@
 
 ## Tasks
 
-- [ ] travels : thumbnails on hover
+- [x] travels : thumbnails on hover
 
-- [ ] show images once preloaded
+- [x] show images once preloaded
 
 - [ ] change link to holidays.florenceltf.com
 
-- [ ] index : change 'currently viewing' to 'index'
+- [x] index : change 'currently viewing' to 'index'
 
 - [x] posts should be a subset of countries /country/australia/hobart/
-
