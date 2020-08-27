@@ -288,6 +288,7 @@ h2 a:hover {
     overflow: hidden;
     width: 50%;
     margin-left: 20px;
+    position: relative;
 }
 
 .post-counter {
@@ -366,7 +367,7 @@ h2 a:hover {
     }
 
     .list-container {
-        grid-template-columns: 1fr; 
+        grid-template-columns: 1fr;
     }
 
     .top {
@@ -384,6 +385,5 @@ h2 a:hover {
     .top {
         margin-bottom: 40px;
         }
-        
-  }
 
+  }
