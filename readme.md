@@ -14,6 +14,4 @@
 
 - [ ] change link to holidays.florenceltf.com
 
-- [x] index : change 'currently viewing' to 'index'
-
 - [x] posts should be a subset of countries /country/australia/hobart/
