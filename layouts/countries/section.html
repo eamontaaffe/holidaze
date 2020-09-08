@@ -26,7 +26,7 @@
 
 </main>
 
-<div id="cursor-image">
+<div id="cursor-image" class="lazyload">
   {{ range $element := .Pages }}
   {{ with (((index $element.Pages 0).Resources.GetMatch "*feature*").Resize "500x q80") }}
   <img data-country="{{ $element.File.UniqueID }}" src="{{ .RelPermalink }}">
