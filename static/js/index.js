@@ -28,10 +28,16 @@ slideshowContainer.addEventListener('click', function () {
 });
 
 slideshowContainer.addEventListener('mousemove', function (event) {
-    cursor.style.transform =
-        "translate3d("
-        + event.clientX + "px,"
-        + event.clientY + "px,0px)"
+
+    const x = event.clientX;
+    const y = event.clientY + window.pageYOffset;
+
+    cursor.style.transform = `translate(${x}px, ${y}px)`
+
+    // cursor.style.transform =
+    //     "translate3d("
+    //     + event.clientX + "px,"
+    //     + (window.pageYOffset + event.clientY) + "px,0px)"
 });
 
 slideshowContainer.addEventListener('mouseenter', function (event) {
