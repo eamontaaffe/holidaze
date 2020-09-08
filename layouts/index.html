@@ -1,23 +1,24 @@
 {{ define "main" }}
 <main id="slideshow-container">
 
-    {{ $images := .Resources.ByType "image" }}
-    {{ range $index, $element := $images }}
-    <div class="slide fade" style="display: none">
-      <div class="counter">
-        <div class="counter-number">{{ add $index 1 }}</div>
-        <div class="">out of</div>
-        <div class="counter-total">{{ len $images }}</div>
-      </div>
-      <img src="{{ .RelPermalink }}" alt="{{ .Name }}" style="height: 100%; width: 100%; object-fit: cover;">
+  {{ $images := .Resources.ByType "image" }}
+  {{ range $index, $element := $images }}
+  <div class="slide fade" style="display: none">
+    <div class="counter">
+      <div class="counter-number">{{ add $index 1 }}</div>
+      <div class="">out of</div>
+      <div class="counter-total">{{ len $images }}</div>
     </div>
-    {{ end }}
+    <img src="{{ .RelPermalink }}" alt="{{ .Name }}" style="height: 100%; width: 100%; object-fit: cover;"
+      class="lazyload">
+  </div>
+  {{ end }}
 
-    <div id="cursor">
-      {{ range $index, $element := $images }}
-      <span class="cursor-text">{{ .Name }}</span>
-      {{ end }}
-    </div>
+  <div id="cursor">
+    {{ range $index, $element := $images }}
+    <span class="cursor-text">{{ .Name }}</span>
+    {{ end }}
+  </div>
 
 </main>
 

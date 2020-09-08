@@ -9,7 +9,8 @@
 
     <div class="list-item">
       {{ with (.Resources.ByType "image").GetMatch "*feature*" }}
-      <img src="{{ (.Resize "600x q100").RelPermalink }}" style="height: 100%; width: 100%; object-fit: cover" class="fade">
+      <img src="{{ (.Resize "600x q100").RelPermalink }}" style="height: 100%; width: 100%; object-fit: cover"
+        class="fade lazyload">
 
       <a href="{{ $page.Permalink }}">
         <div class="overlay">
