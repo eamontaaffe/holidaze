@@ -1,7 +1,7 @@
 {{ define "main" }}
 <main class="fade">
 
-  <h2><a href="{{ .CurrentSection.Permalink }}">{{ .CurrentSection.LinkTitle }}</a> : <br> {{ .Title }}</h2>
+  <h2><a href="{{ .CurrentSection.RelPermalink }}">{{ .CurrentSection.LinkTitle }}</a> : <br> {{ .Title }}</h2>
 
   {{ range $index, $element := sort (where (.Resources.ByType "image") "Params.weight" ">=" 0) "Params.weight" }}
   <div class="post-item">
